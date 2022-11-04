@@ -11,6 +11,7 @@
  - 🌐 [ViewDNS](https://viewdns.info/) - Bir sürü seçeneğe sahip web sorgu sitesi.
 
 
-*### Forensic:
+* ### Forensic:
+-l
  - 📷 [AperiSolve](https://www.aperisolve.com/) - Forensic ctf'lerinde toplu analiz yapmamızı sağlar.
  - 📷 [](https://ctf-wiki.mahaloz.re/misc/audio/introduction/)
