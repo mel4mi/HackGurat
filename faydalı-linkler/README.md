@@ -1,1 +1,1 @@
-[https://explainshell.com/](Explain Shell) Yazdığınız shell kodunun ne olduğunu açıklar.
+[Explain Shell](https://explainshell.com/) Yazdığınız shell kodunun ne olduğunu açıklar.
