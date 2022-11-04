@@ -13,4 +13,4 @@
 
 * ### Forensic:
  - 📷 [AperiSolve](https://www.aperisolve.com/) - Forensic ctf'lerinde toplu analiz yapmamızı sağlar.
- - 📷 [Audio Decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html) - Ses dosyalarında gizlenmiş mors kodlarını çözmemizi sağlar.
+ - 🎧 [Audio Decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html) - Ses dosyalarında gizlenmiş mors kodlarını çözmemizi sağlar.
