@@ -2,7 +2,10 @@
 * [<img width="18" src="https://github.com/mel4mi/siber-guvenlik-ziggurat/blob/main/resimler/terminal_logo.jpg" alt="link" border="0"> Explain Shell](https://explainshell.com/) - Yazdığınız shell kodunun ne olduğunu açıklar.
 
 
-* ℹ️ [Ifixit](https://www.ifixit.com/) - Herhangi bir şeyi nasıl tamir edeceğinizi açıklar.
+* ### Faydalı Linkler
+ - ℹ️ [Ifixit](https://www.ifixit.com/) - Herhangi bir şeyi nasıl tamir edeceğinizi açıklar.
+ - 🌐 [https://www.revshells.com/) - Birbirinden farklı dillerde otomatik ReverseShell üretmemize sağlar.
+
 
 
 * ### information gathering:
@@ -17,11 +20,25 @@
  - 📷 [AperiSolve](https://www.aperisolve.com/) - Forensic ctf'lerinde toplu analiz yapmamızı sağlar.
  - 🎧 [Audio Decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html) - Ses dosyalarında gizlenmiş mors kodlarını çözmemizi sağlar.
  - 🖌️ [29a.ch](https://29a.ch/photo-forensics/#pca) - Fotoğraf içine gömülmüş gizli pixelleri ortaya çıkarmaya yarar.
+ - 📝 [steganography](https://stylesuxx.github.io/steganography/) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
+ - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
+ - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
+ - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
+ - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
  - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
 
 * ### Cryptography:
 
 - 🃏 [dcode](https://www.dcode.fr/) - Birbirinden farklı şifreleme metodlarını kırmanızı sağlar.
+- #️⃣ [dcode](https://www.dcode.fr/cipher-identifier) - şifrelenmiş metnin hangi türde şifrelendiğini bulmamızı sağlar.
 - ♟️ [CyberChef](https://gchq.github.io/CyberChef/) - Çoğu Encode,Decode,Hash işlemlerine izin verir.
 - #️⃣ [CrackStation](https://crackstation.net/) - Online Hash kırma sitesi.
 - #️⃣ [HashCat](https://hashcat.net/wiki/doku.php?id=example_hashes) - Örnek Hash listesi.
+- #️⃣ [devglan](https://www.devglan.com/online-tools/rsa-encryption-decryption) - RSA şifrelenmiş metni çözmemizi sağlar.
+- #️⃣ [Rsa.aspx](https://the-x.cn/en-US/cryptography/Rsa.aspx) - RSA şifrelenmiş metni çözmemizi sağlar.
+- #️⃣ [Rsa.aspx](https://report-uri.com/home/pem_decoder) - PrivateKeyi çözmemizi sağlar.
+- #️⃣ [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - CTF yarışmalarının vazgeçilmezidir. Public key'den private key üretimine kadar bir çok işe yarar.
+
+
+
+
