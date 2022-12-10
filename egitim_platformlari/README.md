@@ -23,6 +23,6 @@
  - ☎️ [HackSplaining](https://www.hacksplaining.com/lessons) - Yeni başlayanlar için en iyi platformlardan bir tanesidir.
  - ☎️ [VulnHub](https://www.vulnhub.com/) - Yeni başlayanlar için en iyi platformlardan bir tanesidir.
  - ☎️ [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) - Yeni başlayanlar için en iyi platformlardan bir tanesidir.
- - ☎️ [CyberDefenders](https://github.com/digininja/DVWA) - Yeni başlayanlar için en iyi platformlardan bir tanesidir.
- - ☎️ [CyberDefenders](https://github.com/juice-shop/juice-shop) - Yeni başlayanlar için en iyi platformlardan bir tanesidir
+ - ☎️ [DVWA](https://github.com/digininja/DVWA) - Yeni başlayanlar için en iyi platformlardan bir tanesidir.
+ - ☎️ [Juice-Shop](https://github.com/juice-shop/juice-shop) - Yeni başlayanlar için en iyi platformlardan bir tanesidir
 
