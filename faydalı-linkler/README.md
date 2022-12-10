@@ -4,7 +4,7 @@
 
 * ### Faydalı Linkler
  - ℹ️ [Ifixit](https://www.ifixit.com/) - Herhangi bir şeyi nasıl tamir edeceğinizi açıklar.
- - 🌐 [https://www.revshells.com/) - Birbirinden farklı dillerde otomatik ReverseShell üretmemize sağlar.
+ - 🌐 [RevShells](https://www.revshells.com/) - Birbirinden farklı dillerde otomatik ReverseShell üretmemize sağlar.
 
 
 
