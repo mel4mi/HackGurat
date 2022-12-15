@@ -22,10 +22,8 @@
  - 🖌️ [29a.ch](https://29a.ch/photo-forensics/#pca) - Fotoğraf içine gömülmüş gizli pixelleri ortaya çıkarmaya yarar.
  - 📝 [steganography](https://stylesuxx.github.io/steganography/) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
  - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
- - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
- - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
- - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
- - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
+ - 📝 [fotoforensics](https://fotoforensics.com/) - Fotoğrafın üzerine efekt atarak gizlenmiş metinleri bulmamızı sağlar.
+
 
 * ### Cryptography:
 
