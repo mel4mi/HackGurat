@@ -30,6 +30,8 @@ Siber Güvenlik yol haritanızda yardımcı olabilecek her türlü kaynakları t
      
   * ### Faydalı Linkler:
   * ###  Faydalı Yazılar:
+     * [Türkçe]()
+     * [English]()
   * ### PDF Kaynakları
 
 <!--
