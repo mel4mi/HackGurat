@@ -25,7 +25,7 @@ Siber Güvenlik yol haritanızda yardımcı olabilecek her türlü kaynakları t
      * [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Coding](/faydalı-linkler)
      
   * ### Eğitim platformları:
-     * [ Tryhackme](https://www.tryhackme.com)
+     * [ Tryhackme](https://www.tryhackme.com) :star:
      * [ Diğerleri](/Depo/eğitim_platformları/)
      
   * ### Faydalı Linkler:
