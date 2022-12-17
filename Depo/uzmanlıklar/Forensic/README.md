@@ -1,7 +1,11 @@
 
-Forensic(Adli Bilişim) Dijital ortamlarda saklanan her türlü dosyaların(fotoğraflar,sesler,...) hukuki süreçlerde kullanılabilecek kanıt niteliğinde veriler bulabilmeyi amaçlayan uzmanlıktır.
+Forensic(Adli Bilişim) Dijital ortamlarda saklanan her türlü dosyaların(fotoğraflar,sesler,...) hukuki süreçlerde kullanılabilecek kanıt niteliğinde olan verileri bulabilmeyi amaçlayan uzmanlıktır.
 
-örneklendirmek gerekirse elimizdeki fotoğrafın meta datalarına bakarak konum, cihaz bilgisi, tarih gibi bilgilere ulaşabiliriz veya özel olarak fotoğrafın içine şifreli bir biçimde saklanmış fotoğraflar, metin belgeleri, ağ geçmişi(pcap) gibi dosyalara erişebiliriz.
+Örneklendirmek gerekirse elimizdeki fotoğrafın meta datalarına bakarak konum, cihaz bilgisi, tarih gibi bilgilere ulaşabilir veya özel olarak fotoğrafın içine şifreli bir biçimde saklanmış fotoğraflar, metin belgeleri, ağ geçmişi(pcap) gibi dosyaları özel metodlarla çıkartıp erişebiliriz.
+
+Bu alan özellikle CTF yarışmalarının gözdesidir ve bu alana vakıf olmak takımınıza çokça puan kazandıracaktır. O yüzden bu alanda ilerlemek için bazı kaynaklar ve işinize yarayacak toolların bir listesini bırakacağım.
+
+
 
 
 
