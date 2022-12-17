@@ -17,12 +17,12 @@ Siber Güvenlik yol haritanızda yardımcı olabilecek her türlü kaynakları t
 
 ## Menü:
   * ### Uzmanlıklar:
-     * [ Web](/faydalı-linkler)
-     * [ Crypto](/faydalı-linkler)
-     * [ Reverse Engineering](/faydalı-linkler)
-     * [ Network](/faydalı-linkler)
+     * [ Web](/Depo/uzmanlıklar/Web)
+     * [ Crypto](/Depo/uzmanlıklar/Crypto)
+     * [ Reverse Engineering](/Depo/uzmanlıklar/Reverse_Engineering)
+     * [ Network](/Depo/uzmanlıklar/Network)
      * [ Forensic](/Depo/uzmanlıklar/Forensic)
-     * [ Coding](/faydalı-linkler)
+     * [ Coding](/Depo/uzmanlıklar/Coding)
      
   * ### Eğitim platformları:
      * [ Tryhackme](https://www.tryhackme.com) :star:
