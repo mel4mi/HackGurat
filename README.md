@@ -17,12 +17,12 @@ Siber Güvenlik yol haritanızda yardımcı olabilecek her türlü kaynakları t
 
 ## Menü:
   * ### Uzmanlıklar:
-     * [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Web](/faydalı-linkler)
-     * [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Crypto](/faydalı-linkler)
-     * [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Reverse Engineering](/faydalı-linkler)
-     * [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Network](/faydalı-linkler)
+     * [ Web](/faydalı-linkler)
+     * [ Crypto](/faydalı-linkler)
+     * [ Reverse Engineering](/faydalı-linkler)
+     * [ Network](/faydalı-linkler)
      * [ Forensic](/Depo/uzmanlıklar/Forensic)
-     * [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Coding](/faydalı-linkler)
+     * [ Coding](/faydalı-linkler)
      
   * ### Eğitim platformları:
      * [ Tryhackme](https://www.tryhackme.com) :star:
