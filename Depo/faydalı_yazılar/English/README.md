@@ -8,7 +8,7 @@
 
 [TRANSMISSION CONTROL PROTOCOL](https://www.rfc-editor.org/rfc/rfc793)
 
-[Linux Privilege Escalation](https://touhidshaikh.com/blog/2018/04/abusing-sudo-linux-privilege-escalation/)
+[rfc1035](https://www.ietf.org/rfc/rfc1035.txt)
 
 [Linux Privilege Escalation](https://touhidshaikh.com/blog/2018/04/abusing-sudo-linux-privilege-escalation/)
 
