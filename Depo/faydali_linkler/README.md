@@ -34,7 +34,7 @@
 - #️⃣ [HashCat](https://hashcat.net/wiki/doku.php?id=example_hashes) - Örnek Hash listesi.
 - #️⃣ [devglan](https://www.devglan.com/online-tools/rsa-encryption-decryption) - RSA şifrelenmiş metni çözmemizi sağlar.
 - #️⃣ [Rsa.aspx](https://the-x.cn/en-US/cryptography/Rsa.aspx) - RSA şifrelenmiş metni çözmemizi sağlar.
-- #️⃣ [Rsa.aspx](https://report-uri.com/home/pem_decoder) - PrivateKeyi çözmemizi sağlar.
+- #️⃣ [PemDecoder](https://report-uri.com/home/pem_decoder) - PrivateKeyi çözmemizi sağlar.
 - #️⃣ [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - CTF yarışmalarının vazgeçilmezidir. Public key'den private key üretimine kadar bir çok işe yarar.
 
 
