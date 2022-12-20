@@ -3,7 +3,9 @@
  <p></p>
 <img alt="ziggurat Logo" src="https://github.com/mel4mi/siber-guvenlik-ziggurat/blob/main/Depo/resimler/ziggurat-preview.png" />
 
-Siber Güvenlik yol haritanızda yardımcı olabilecek her türlü kaynakları tek bir yerde toplamayı amaçlıyorum öneri ve şikayetleriniz için issues kısmını kullanabilirsiniz
+Siber Güvenlik yol haritanızda yardımcı olabilecek her türlü kaynakları tek bir yerde toplamayı amaçlıyorum öneri ve şikayetleriniz için issues kısmını kullanabilirsiniz.
+
+NOT: Çoğu kısım daha hazırlanmadı.
 
 <!-- ## Uzmanlıkar:
 * [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Web](/faydalı-linkler)
