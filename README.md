@@ -29,6 +29,7 @@ Siber Güvenlik yol haritanızda yardımcı olabilecek her türlü kaynakları t
      * [ Diğerleri](/Depo/eğitim_platformları/)
      
   * ### Faydalı Linkler:
+     * [Faydalı Linkler](/Depo/faydali_linkler)
   * ###  Faydalı Yazılar:
      * [Türkçe](/Depo/faydalı_yazılar/Türkçe)
      * [English](/Depo/faydalı_yazılar/English)
