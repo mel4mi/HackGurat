@@ -19,7 +19,7 @@ Bu alan özellikle CTF yarışmalarının gözdesidir ve bu alana vakıf olmak t
  - 📝 [fotoforensics](https://fotoforensics.com/) - Fotoğrafın üzerine efekt atarak gizlenmiş metinleri bulmamızı sağlar.
 
 ### Tools(On Machine):
- *Binwalk
+ * Binwalk
  * Steghide
    * Stegcracker
    * Stegsolve
