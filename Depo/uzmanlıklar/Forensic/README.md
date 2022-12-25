@@ -8,7 +8,7 @@ Bu alan özellikle CTF yarışmalarının gözdesidir ve bu alana vakıf olmak t
 
 ### Kaynaklar(resources)
  - [ctf-wiki](https://ctf-wiki.mahaloz.re/misc/introduction/) - forensic için örnek ctf çözümü yapan site.
- - [Png And Hidden Data](https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html) - Png'nin içindeki
+ - [Png And Hidden Data](https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html) - Png'nin içindeki gizli pikseller.
  - [Forensics](https://ctf101.org/forensics/overview/)
  - [Steghide](https://null-byte.wonderhowto.com/how-to/steganography-hide-secret-data-inside-image-audio-file-seconds-0180936/)
  - [Stego List](https://0xrick.github.io/lists/stego/)
