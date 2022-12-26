@@ -38,4 +38,6 @@
   - Sertifika için:
     - [Hackerrank](https://www.hackerrank.com/)
     - [SoloLearn](https://play.google.com/store/apps/details?id=com.sololearn&hl=en&gl=US&pli=1)
+    - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/)
+    - [Btk Akademi](https://www.btkakademi.gov.tr/)
   
