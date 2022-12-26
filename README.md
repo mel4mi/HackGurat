@@ -25,6 +25,7 @@ NOT: Çoğu kısım daha hazırlanmadı.
      * [ Network](/Depo/uzmanlıklar/Network)
      * [ Forensic](/Depo/uzmanlıklar/Forensic)
      * [ Coding](/Depo/uzmanlıklar/Coding)
+       * [ Web Geliştirme](/Depo/uzmanlıklar/Coding/Web)
      
   * ### Eğitim platformları:
      * [ Tryhackme](https://www.tryhackme.com) :star:
