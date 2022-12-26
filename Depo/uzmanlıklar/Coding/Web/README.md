@@ -25,11 +25,12 @@
     - [Html Dersleri](https://www.htmldersleri.org/)
     - [W3School](https://www.w3schools.com/html/default.asp)
     - [Btk Akademi](https://www.btkakademi.gov.tr/)
-    - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/)
+    - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/web-programlama)
     
   - C# için:
     - [Microsoft Learn](https://learn.microsoft.com/tr-tr/training/paths/csharp-first-steps/)
     - [Gencay Yıldız](https://www.youtube.com/@GencayYildiz/playlists)
+    - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/c-ile-algoritma-ve-programlama)
     
     
     
