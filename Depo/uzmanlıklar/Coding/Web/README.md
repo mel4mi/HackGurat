@@ -24,9 +24,9 @@
   - Html, Css, Javascript için:
     - [Html Dersleri](https://www.htmldersleri.org/) - Html öğrenmek için sade ve öz anlatıma sahip site.
     - [W3School](https://www.w3schools.com/html/default.asp) - Dünyanın en popüler yazılım eğitim sitesi.
-    - [Btk Akademi](https://www.btkakademi.gov.tr/) 
-    - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/web-programlama)
-    - [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+    - [Btk Akademi](https://www.btkakademi.gov.tr/) -
+    - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/web-programlama) -
+    - [FreeCodeCamp](https://www.freecodecamp.org/learn/) -
     
   - C# için:
     - [Microsoft Learn](https://learn.microsoft.com/tr-tr/training/paths/csharp-first-steps/) - Microsoft'un kendi yazılım öğretme sitesi.
