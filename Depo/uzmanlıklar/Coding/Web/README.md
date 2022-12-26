@@ -22,22 +22,22 @@
  ## Kaynaklar:
  
   - Html, Css, Javascript için:
-    - [Html Dersleri](https://www.htmldersleri.org/)
-    - [W3School](https://www.w3schools.com/html/default.asp)
-    - [Btk Akademi](https://www.btkakademi.gov.tr/)
+    - [Html Dersleri](https://www.htmldersleri.org/) - Html öğrenmek için sade ve öz anlatıma sahip site.
+    - [W3School](https://www.w3schools.com/html/default.asp) - Dünyanın en popüler yazılım eğitim sitesi.
+    - [Btk Akademi](https://www.btkakademi.gov.tr/) 
     - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/web-programlama)
     
   - C# için:
-    - [Microsoft Learn](https://learn.microsoft.com/tr-tr/training/paths/csharp-first-steps/)
-    - [Gencay Yıldız](https://www.youtube.com/@GencayYildiz/playlists)
-    - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/c-ile-algoritma-ve-programlama)
+    - [Microsoft Learn](https://learn.microsoft.com/tr-tr/training/paths/csharp-first-steps/) - Microsoft'un kendi yazılım öğretme sitesi.
+    - [Gencay Yıldız](https://www.youtube.com/@GencayYildiz/playlists) - C#, .net için vazgeçilmez hoca.
+    - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/c-ile-algoritma-ve-programlama) - Turkcelin orjinal eğitim sitesi. Sınav sonrasında sertifika veriyor.
     
     
     
   ## Pratik:
   - Sertifika için:
-    - [Hackerrank](https://www.hackerrank.com/)
-    - [SoloLearn](https://play.google.com/store/apps/details?id=com.sololearn&hl=en&gl=US&pli=1)
-    - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/)
-    - [Btk Akademi](https://www.btkakademi.gov.tr/)
+    - [Hackerrank](https://www.hackerrank.com/) - Çoğu yazılım dili için hem pratik hemde bedava sertifika kazanma imkanı veriyor.
+    - [SoloLearn](https://play.google.com/store/apps/details?id=com.sololearn&hl=en&gl=US&pli=1) - Mobilde yazılım dili için en iyi uygulama(bence). Her path sonunda sertifika veriyor.
+    - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/) - Turkcelin orjinal eğitim sitesi. Sınav sonrasında sertifika veriyor.
+    - [Btk Akademi](https://www.btkakademi.gov.tr/) - Devlet destekli yazılım öğrenme platformu. Bazı eğitimlerde sertifika da veriyor.
   
