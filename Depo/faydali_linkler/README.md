@@ -3,7 +3,7 @@
 * ### Faydalı Linkler
  - ℹ️ [Ifixit](https://www.ifixit.com/) - Herhangi bir şeyi nasıl tamir edeceğinizi açıklar.
  - 🌐 [RevShells](https://www.revshells.com/) - Birbirinden farklı dillerde otomatik ReverseShell üretmemize sağlar.
- - [Explain Shell](https://explainshell.com/) - Yazdığınız shell kodunun ne olduğunu açıklar.
+ - 🧭 [Explain Shell](https://explainshell.com/) - Yazdığınız shell kodunun ne olduğunu açıklar.
 
 
 
