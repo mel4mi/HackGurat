@@ -7,11 +7,11 @@ Bu alan özellikle CTF yarışmalarının gözdesidir ve bu alana vakıf olmak t
 
 
 ### Kaynaklar(resources)
- - [ctf-wiki](https://ctf-wiki.mahaloz.re/misc/introduction/) - forensic için örnek ctf çözümü yapan site.
+ - [ctf-wiki](https://ctf-wiki.mahaloz.re/misc/introduction/) - Forensic için örnek ctf çözümü yapan site.
  - [Png And Hidden Data](https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html) - Png'nin içindeki gizli pikseller.
- - [Forensics](https://ctf101.org/forensics/overview/)
- - [Steghide](https://null-byte.wonderhowto.com/how-to/steganography-hide-secret-data-inside-image-audio-file-seconds-0180936/)
- - [Stego List](https://0xrick.github.io/lists/stego/)
+ - [Forensics](https://ctf101.org/forensics/overview/) - Forensic hakkında temel diyebileceğimiz bilgileri veren sitedir.
+ - [Steghide](https://null-byte.wonderhowto.com/how-to/steganography-hide-secret-data-inside-image-audio-file-seconds-0180936/) - Fotoğrafın içine nasıl dosyaların saklandığı ve saklanan dosyaları nasıl çıkartılığını gösteren yazı.
+ - [Stego List](https://0xrick.github.io/lists/stego/) - Steganography için kullanacağınız tooların listesi.
 
 
 
