@@ -23,6 +23,7 @@ Ben aşağıya bildiğim kaynakları ve kullanmanız gerek tooları bırakacağ�
  - [PortSwigger](http://portswigger.net/web-security) :star: - Portswigger web güvenliği için zirveleri oynayan bir sitedir. Bu sitede web zaafiyetlerini öğrenebilir ve uygulamalı bir şekilde çalışabilirsiniz.
  - [Tryhackme](https://tryhackme.com/) - içinde farklı farklı alanlardan dersler olasa da web güvenliği için faydalı odaları vardır. Yeni başlayanlar için tavsiye edilir.
  - [HackTheBox](https://www.hackthebox.com/) - Tryhackme'den daha zordur kendi akademi kısmı olsa da daha çok pratik için kullanılabilecek sitedir.
+ - [OWASP](https://owasp.org/) - Web güvenliğini arttırmak için çalışan bir kurumdur. içerisinde çok önemli raporlar ve yazılar vardır.
  
  
 ## Toollar:
