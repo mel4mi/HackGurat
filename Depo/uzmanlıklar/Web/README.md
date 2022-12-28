@@ -33,5 +33,5 @@ Ben aşağıya bildiğim kaynakları ve kullanmanız gerek tooları bırakacağ�
  - [Sqlmap](https://sqlmap.org/) - Sql injection saldırısının otomatik tooludur. kullanımı kolay baya da iş görür.
  - [Wpscan](https://wpscan.com/wordpress-security-scanner) - Wordpress sitelerinde bilgi toplamaya ve zaafiyet tespiti yapmamıza yarayan tooldur.
  - [Nikto](https://github.com/sullo/nikto) - Otomatik Web zaafiyeti için test yapan tooldur.
- - [w3af](https://w3af.org/) -Otomatik Web zaafiyeti için test yapan tooldur.
- - [wafw00f](https://github.com/EnableSecurity/wafw00f) - web sitesini koruyan veya bizi engelleyen firewall'ların tespiti ve zaafiyeti için bize yardımcı olan tooldur.
+ - [W3af](https://w3af.org/) -Otomatik Web zaafiyeti için test yapan tooldur.
+ - [Wafw00f](https://github.com/EnableSecurity/wafw00f) - web sitesini koruyan veya bizi engelleyen firewall'ların tespiti ve zaafiyeti için bize yardımcı olan tooldur.
