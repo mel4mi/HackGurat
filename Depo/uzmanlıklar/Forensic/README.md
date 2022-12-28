@@ -6,7 +6,7 @@ Forensic(Adli Bilişim) Dijital ortamlarda saklanan her türlü dosyaların(foto
 Bu alan özellikle CTF yarışmalarının gözdesidir ve bu alana vakıf olmak takımınıza çokça puan kazandıracaktır. O yüzden bu alanda ilerlemek için bazı kaynaklar ve işinize yarayacak toolların bir listesini bırakacağım.
 
 
-### Kaynaklar(resources)
+### Kaynaklar(resources):
  - [ctf-wiki](https://ctf-wiki.mahaloz.re/misc/introduction/) - Forensic için örnek ctf çözümü yapan site.
  - [Png And Hidden Data](https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html) - Png'nin içindeki gizli pikseller.
  - [Forensics](https://ctf101.org/forensics/overview/) - Forensic hakkında temel diyebileceğimiz bilgileri veren sitedir.
