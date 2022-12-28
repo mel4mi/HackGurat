@@ -26,7 +26,7 @@ Ben aşağıya bildiğim kaynakları ve kullanmanız gerek tooları bırakacağ�
  
  
 ## Toollar:
- - [Burp suite](https://portswigger.net/burp) - Web güvenliği için one man army görevi gören tooldur. Temel mantığı internette attığınız bütün paketleri yakalayarak gönlünüzde değiştirme imkanı verir
+ - [Burp suite](https://portswigger.net/burp) - :star: Web güvenliği için one man army görevi gören tooldur. Temel mantığı internette attığınız bütün paketleri yakalayarak gönlünüzde değiştirme imkanı verir
  - Gobuster veya Dirb - Bu toollar ile web sitesinde göremediğiniz gizli dizinleri keşfetmenizi sağlar.
  - [Nmap](https://nmap.org/) - Nmap'in burda ne işi var diyebilirsiniz ama bazen başka portta çalışan web servislerinden tutun ftp gibi bazı web sitesi ile entegre servisler olabilir ve servislerin olası zaafiyetleri sizin test sürecinize fazlasıyla katkıda bulunabilir
  - [Sqlmap](https://sqlmap.org/) - Sql injection saldırısının otomatik tooludur. kullanımı kolay baya da iş görür.
