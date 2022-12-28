@@ -1,4 +1,4 @@
-
+![](/Depo/resimler/web-application-firewall-simple-diagram_1.jpg)
 # Web Güvenliği:
 
 Web application security günümüzün ve geleceğin en çok talep gören güvenlik alanlarından bir tanesidir. Çünkü artık kullandığımız bir çok uygulama, Arkasında(backend) illaki bir web sunucusu, api ortamı veya cloud ortamı bulunduruyor. Bu nedenden dolayı olası bir web zaafiyeti bir internet sitesini hacklemekten çok daha fazlası olmaya başladı. Örneklendirmek gerekirse sitedeki eksik girdi filtrelemesi olduğu zaman bir Veritabanı açığı([SQL İnjection](https://www.niobehosting.com/blog/sql-injection/)) veya kullanıcının erişimi kısıtlanmamışsa yetkisiz dosyalara ve işlemlere erişebilme imkanı([IDOR](https://www.infinitumit.com.tr/idor-insecure-direct-object-references-zafiyeti-nedir-ve-nasil-onlenir/)) gibi zaafiyetler doğurabilir.
