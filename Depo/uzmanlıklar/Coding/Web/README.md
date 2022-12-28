@@ -42,3 +42,5 @@
     - [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/) - Turkcelin orjinal eğitim sitesi. Sınav sonrasında sertifika veriyor.
     - [Btk Akademi](https://www.btkakademi.gov.tr/) - Devlet destekli yazılım öğrenme platformu. Bazı eğitimlerde sertifika da veriyor.
   
+  ## Web Güvenliği için:
+  - [Web Application Security](/Depo/uzmanlıklar/Web)
