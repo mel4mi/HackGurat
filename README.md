@@ -3,7 +3,7 @@
  <p></p>
 <img alt="ziggurat Logo" src="https://github.com/mel4mi/siber-guvenlik-ziggurat/blob/main/Depo/resimler/ziggurat-preview.png" />
 
-Merhabalar ben Rahmi yaklaşık 2018 den beri siber güvenlikle ilgileniyorum. Aktif olarak da ctf yarışmalarına katılıyorum. Bu yolda kullandığım kaynak ve bilgileri sizle paylaşmaya çalışacağım. Umarımda sizinde Siber Güvenlik yol haritanızda yardımcı olabilirim. Öneri ve şikayetleriniz için issues kısmını kullanabilirsiniz.
+Merhabalar ben [Rahmi](https://www.linkedin.com/in/rahmi-uzuner/) yaklaşık 2018 den beri siber güvenlikle ilgileniyorum. Aktif olarak da ctf yarışmalarına katılıyorum. Bu yolda kullandığım kaynak ve bilgileri sizle paylaşmaya çalışacağım. Umarımda sizinde Siber Güvenlik yol haritanızda yardımcı olabilirim. Öneri ve şikayetleriniz için issues kısmını kullanabilirsiniz.
 
 NOT: Çoğu kısım hazırlanma aşamasında.
 
