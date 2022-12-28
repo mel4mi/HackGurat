@@ -1,4 +1,4 @@
-
+## Forensic Nedir:
 Forensic(Adli Bilişim) Dijital ortamlarda saklanan her türlü dosyaların(fotoğraflar,sesler,...) hukuki süreçlerde kullanılabilecek kanıt niteliğinde olan verileri bulabilmeyi amaçlayan uzmanlıktır.
 
 Örneklendirmek gerekirse elimizdeki fotoğrafın meta datalarına bakarak konum, cihaz bilgisi, tarih gibi bilgilere ulaşabilir veya özel olarak fotoğrafın içine şifreli bir biçimde saklanmış fotoğraflar, metin belgeleri, ağ geçmişi(pcap) gibi dosyaları özel metodlarla çıkartıp erişebiliriz.
