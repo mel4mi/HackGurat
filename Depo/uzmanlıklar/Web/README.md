@@ -16,7 +16,7 @@ Web güvenliğinde bence en önemli kural okumaktır. Çünkü web teknolojisi �
 Ben aşağıya bildiğim kaynakları ve kullanmanız gerek tooları bırakacağım umarım yararlı olur.
 
 ## En iyi türkçe kaynak:
- - [Mehmet Dursun İnce](https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT) - Web güvenliğinde bana çok yardımı olanmuştur. Zaafiyetlerin temelini nereden geldiğini çok iyi anlatan bir hocadır. Benim için ilk başta anlaması zordu :no_mouth: sizede aynısı olursa umudunuzu kaybetmeyin alışınca her şey çok daha kolay oluyor. 
+ - [Mehmet Dursun İnce](https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT) - Web güvenliğinde bana çok yardımı olmuştur. Zaafiyetlerin temelini nereden geldiğini çok iyi anlatan bir hocadır. Benim için ilk başta anlaması zordu :no_mouth: sizede aynısı olursa umudunuzu kaybetmeyin alışınca her şey çok daha kolay oluyor. 
 
 ## Kaynaklar:
 
