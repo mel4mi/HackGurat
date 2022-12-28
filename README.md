@@ -7,15 +7,6 @@ Merhabalar ben [Rahmi](https://www.linkedin.com/in/rahmi-uzuner/) yaklaşık 201
 
 NOT: bazı kısımlar hazırlanma aşamasında.
 
-<!-- ## Uzmanlıkar:
-* [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Web](/faydalı-linkler)
-* [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Crypto](/faydalı-linkler)
-* [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Reverse Engineering](/faydalı-linkler)
-* [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Network](/faydalı-linkler)
-* [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Forensic](/faydalı-linkler)
-* [<img width="18" src="https://static-00.iconduck.com/assets.00/link-chain-icon-256x256-t8asdmp4.png" alt="link" border="0"> Coding](/faydalı-linkler)
--->
-
 
 ## Menü:
   * ### Uzmanlıklar:
@@ -29,14 +20,13 @@ NOT: bazı kısımlar hazırlanma aşamasında.
      
   * ### Eğitim platformları:
      * [ Tryhackme](https://www.tryhackme.com) :star:
-     * [ Diğerleri](/Depo/eğitim_platformları/)
-     
+     * [ Diğerleri](/Depo/eğitim_platformları/)   
   * ### Faydalı Linkler:
      * [Faydalı Linkler](/Depo/faydali_linkler)
   * ###  Faydalı Yazılar:
      * [Türkçe](/Depo/faydalı_yazılar/Türkçe) (tadilatta)
      * [English](/Depo/faydalı_yazılar/English) (tadilatta)
-  * ### PDF Kaynakları
+  * ### PDF Kaynaklar:
 
 <!--
 ## Menü:
