@@ -20,11 +20,11 @@ NOT: Çoğu kısım hazırlanma aşamasında.
 ## Menü:
   * ### Uzmanlıklar:
      * [ Web](/Depo/uzmanlıklar/Web)
-     * [ Crypto](/Depo/uzmanlıklar/Crypto)
-     * [ Reverse Engineering](/Depo/uzmanlıklar/Reverse_Engineering)
-     * [ Network](/Depo/uzmanlıklar/Network)
+     * [ Crypto](/Depo/uzmanlıklar/Crypto) (tadilatta)
+     * [ Reverse Engineering](/Depo/uzmanlıklar/Reverse_Engineering) (tadilatta)
+     * [ Network](/Depo/uzmanlıklar/Network) (tadilatta)
      * [ Forensic](/Depo/uzmanlıklar/Forensic)
-     * [ Coding](/Depo/uzmanlıklar/Coding)
+     * [ Coding](/Depo/uzmanlıklar/Coding) 
        * [ Web Geliştirme](/Depo/uzmanlıklar/Coding/Web)
      
   * ### Eğitim platformları:
@@ -34,8 +34,8 @@ NOT: Çoğu kısım hazırlanma aşamasında.
   * ### Faydalı Linkler:
      * [Faydalı Linkler](/Depo/faydali_linkler)
   * ###  Faydalı Yazılar:
-     * [Türkçe](/Depo/faydalı_yazılar/Türkçe)
-     * [English](/Depo/faydalı_yazılar/English)
+     * [Türkçe](/Depo/faydalı_yazılar/Türkçe) (tadilatta)
+     * [English](/Depo/faydalı_yazılar/English) (tadilatta)
   * ### PDF Kaynakları
 
 <!--
