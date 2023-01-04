@@ -5,7 +5,7 @@
 
 Merhabalar ben [Rahmi](https://www.linkedin.com/in/rahmi-uzuner/) yaklaşık 2018 den beri siber güvenlikle ilgileniyorum. Aktif olarak da ctf yarışmalarına katılıyorum. Bu yolda kullandığım kaynakları ve bilgileri sizle paylaşmaya çalışacağım. Umarım sizinde Siber Güvenlik yol haritanızda yardımcı olabilirim. Öneri ve şikayetleriniz için issues kısmını kullanabilirsiniz.
 
-NOT: bazı kısımlar hazırlanma aşamasında.
+NOT: bazı kısımlar hazırlık aşamasında.
 
 
 ## Menü:
