@@ -4,7 +4,8 @@
  - ℹ️ [Ifixit](https://www.ifixit.com/) - Herhangi bir şeyi nasıl tamir edeceğinizi açıklar.
  - 🌐 [RevShells](https://www.revshells.com/) - Birbirinden farklı dillerde otomatik ReverseShell üretmemize sağlar.
  - 🧭 [Explain Shell](https://explainshell.com/) - Yazdığınız shell kodunun ne olduğunu açıklar.
-
+ - 🌐 [Httbin](https://httpbin.org/#/Auth) - Yazdığınız uygulamanın http isteklerini test edebileceğiniz site. 
+ - [text2sql](https://www.text2sql.ai/) - Yazdığınız ingilizce cümleyi sql sorgusuna çevirir.
 
 
 * ### information gathering:
@@ -13,6 +14,7 @@
  - 🌐 [ViewDNS](https://viewdns.info/) - Bir sürü seçeneğe sahip web sorgu sitesi.
  - 🌐 [SerContent](https://bgp.he.net/dns/sercontent.com) - 
  - 📖 [Archive](https://archive.org/web/) - Sitenin eski versionlarını gösterir.
+ - ♟️ [https://www.osintdojo.com/diagrams/twitter](Osint dojo) 
 
 
 * ### Forensic:
