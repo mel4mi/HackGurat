@@ -5,7 +5,7 @@
  - 🌐 [RevShells](https://www.revshells.com/) - Birbirinden farklı dillerde otomatik ReverseShell üretmemize sağlar.
  - 🧭 [Explain Shell](https://explainshell.com/) - Yazdığınız shell kodunun ne olduğunu açıklar.
  - 🌐 [Httbin](https://httpbin.org/#/Auth) - Yazdığınız uygulamanın http isteklerini test edebileceğiniz site. 
- - [text2sql](https://www.text2sql.ai/) - Yazdığınız ingilizce cümleyi sql sorgusuna çevirir.
+ - ♟️ [text2sql](https://www.text2sql.ai/) - Yazdığınız ingilizce cümleyi sql sorgusuna çevirir.
 
 
 * ### information gathering:
