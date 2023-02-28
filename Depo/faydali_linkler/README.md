@@ -14,7 +14,7 @@
  - 🌐 [ViewDNS](https://viewdns.info/) - Bir sürü seçeneğe sahip web sorgu sitesi.
  - 🌐 [SerContent](https://bgp.he.net/dns/sercontent.com) - 
  - 📖 [Archive](https://archive.org/web/) - Sitenin eski versionlarını gösterir.
- - ♟️ [Osint dojo](https://www.osintdojo.com/diagrams/twitter) 
+ - ♟️ [Osint dojo](https://www.osintdojo.com/diagrams/twitter) - Twitter osint için yol haritası
 
 
 * ### Forensic:
