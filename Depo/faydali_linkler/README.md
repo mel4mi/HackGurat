@@ -24,20 +24,39 @@
  - 📝 [steganography](https://stylesuxx.github.io/steganography/) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
  - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
  - 📝 [fotoforensics](https://fotoforensics.com/) - Fotoğrafın üzerine efekt atarak gizlenmiş metinleri bulmamızı sağlar.
-
+ - [Npiet](https://www.bertnase.de/npiet/npiet-execute.php)
 
 * ### Cryptography:
 
 - ♟️ [CyberChef](https://gchq.github.io/CyberChef/) - Çoğu Encode,Decode,Hash işlemlerine izin verir. ⭐
-- #️⃣ [dcode](https://www.dcode.fr/cipher-identifier) - şifrelenmiş metnin hangi türde şifrelendiğini bulmamızı sağlar.
-- 🃏 [dcode](https://www.dcode.fr/) - Birbirinden farklı şifreleme metodlarını kırmanızı sağlar.
+- #️⃣ [Cipher](https://www.dcode.fr/cipher-identifier) - şifrelenmiş metnin hangi türde şifrelendiğini bulmamızı sağlar.
+- 🃏 [Dcode](https://www.dcode.fr/) - Birbirinden farklı şifreleme metodlarını kırmanızı sağlar.
 - #️⃣ [CrackStation](https://crackstation.net/) - Online Hash kırma sitesi.
 - 🧮 [HashCat](https://hashcat.net/wiki/doku.php?id=example_hashes) - Örnek Hash listesi.
-- 💻 [devglan](https://www.devglan.com/online-tools/rsa-encryption-decryption) - RSA şifrelenmiş metni çözmemizi sağlar.
+- #️⃣ [Hash Killer](https://hashkiller.io/listmanager)
+- 💻 [Devglan](https://www.devglan.com/online-tools/rsa-encryption-decryption) - RSA şifrelenmiş metni çözmemizi sağlar.
 - 📔 [Rsa.aspx](https://the-x.cn/en-US/cryptography/Rsa.aspx) - RSA şifrelenmiş metni çözmemizi sağlar.
 - 🔡 [PemDecoder](https://report-uri.com/home/pem_decoder) - PrivateKeyi çözmemizi sağlar.
 - 🛰️ [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - CTF yarışmalarının vazgeçilmezidir. Public key'den private key üretimine kadar bir çok işe yarar.
+- [Xor Calculator](https://toolslick.com/math/bitwise/xor-calculator)
+- [Unicode Decoder](https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder)
+
+
+* ### JWT Token:
+
+- [Jwt Generator](https://www.javainuse.com/jwtgenerator)
+- [Token Dev](https://token.dev/)
+- [Jwt.io](https://jwt.io/)
 
 
 
-
+* ### Osint:
+- [Hunter.io](https://hunter.io/)
+- [pip](https://pipl.com/)
+- [Peek You](https://www.peekyou.com/)
+- [Sleeping Time](https://sleepingtime.org/)
+- [Geocreepy](https://www.geocreepy.com/)
+- [Geo Imgr](https://tool.geoimgr.com/)
+- [Namechk](https://namechk.com/)
+- [Check Usernames](https://checkusernames.com/)
+- [Instant Username](https://instantusername.com/)
