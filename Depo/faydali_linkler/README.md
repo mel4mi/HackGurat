@@ -24,7 +24,7 @@
  - 📝 [steganography](https://stylesuxx.github.io/steganography/) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
  - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
  - 📝 [fotoforensics](https://fotoforensics.com/) - Fotoğrafın üzerine efekt atarak gizlenmiş metinleri bulmamızı sağlar.
- - [Npiet](https://www.bertnase.de/npiet/npiet-execute.php)
+ - 🖼️ [Npiet](https://www.bertnase.de/npiet/npiet-execute.php)
 
 * ### Cryptography:
 
@@ -38,15 +38,15 @@
 - 📔 [Rsa.aspx](https://the-x.cn/en-US/cryptography/Rsa.aspx) - RSA şifrelenmiş metni çözmemizi sağlar.
 - 🔡 [PemDecoder](https://report-uri.com/home/pem_decoder) - PrivateKeyi çözmemizi sağlar.
 - 🛰️ [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - CTF yarışmalarının vazgeçilmezidir. Public key'den private key üretimine kadar bir çok işe yarar.
-- [Xor Calculator](https://toolslick.com/math/bitwise/xor-calculator)
-- [Unicode Decoder](https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder)
+- 🔶[Xor Calculator](https://toolslick.com/math/bitwise/xor-calculator)
+- 📓 [Unicode Decoder](https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder)
 
 
 * ### JWT Token:
 
-- [Jwt Generator](https://www.javainuse.com/jwtgenerator)
-- [Token Dev](https://token.dev/)
-- [Jwt.io](https://jwt.io/)
+- 💰 [Jwt Generator](https://www.javainuse.com/jwtgenerator)
+- 💰 [Token Dev](https://token.dev/)
+- 💰 [Jwt.io](https://jwt.io/)
 
 
 
