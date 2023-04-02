@@ -2,7 +2,7 @@
 
 
 * ### Altyapı:
-  * [ Phising Saldırılarının Takibi ](/Depo/kaynaklar/turkce/web/Phishing%20Saldırılarının%20Takibi.pdf)
+  * [ Phising Saldırılarının Takibi ](/Depo/kaynaklar/turkce/web/Phishing%20Saldırılarının%20Takibi.pdf) - Kaynak BGA Security
 * ### Pentest:
   * [ Bilgi Toplama ](/Depo/kaynaklar/turkce/pentest/1-SIZMA%20TESTLERİNDE%20BİLGİ%20TOPLAMA.pdf) - Kaynak BGA Security
   * [ Port Tarama ](/Depo/kaynaklar/turkce/pentest/2-PORT%20TARAMA%20VE%20KEŞİF%20ÇALIŞMALARI.pdf) - Kaynak BGA Security
