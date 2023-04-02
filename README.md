@@ -27,9 +27,9 @@ NOT: bazı kısımlar hazırlık aşamasında.
   * ###  Faydalı Yazılar:
      * [Türkçe](/Depo/faydalı_yazılar/Türkçe) (tadilatta)
      * [English](/Depo/faydalı_yazılar/English) (tadilatta)
-  * ### PDF Kaynaklar:
-     * [Türkçe](/Depo/kaynaklar/turkce) (tadilatta)
-     * [English](/Depo/kaynaklar/English) (tadilatta)
+  * ### PDF Kaynaklar(Resources):
+     * [Türkçe](/Depo/kaynaklar/turkce) 
+     * [English](/Depo/kaynaklar/English)
 
 <!--
 ## Menü:
