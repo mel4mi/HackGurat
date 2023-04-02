@@ -2,7 +2,7 @@
 
 
 
-* ### İnfrastructure:
+* ### Infrastructure:
   *
 * ### Penetration:
   *
