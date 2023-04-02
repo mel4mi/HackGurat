@@ -28,6 +28,8 @@ NOT: bazı kısımlar hazırlık aşamasında.
      * [Türkçe](/Depo/faydalı_yazılar/Türkçe) (tadilatta)
      * [English](/Depo/faydalı_yazılar/English) (tadilatta)
   * ### PDF Kaynaklar:
+     * [Türkçe](/Depo/kaynaklar/turkce) (tadilatta)
+     * [English](/Depo/kaynaklar/English) (tadilatta)
 
 <!--
 ## Menü:
