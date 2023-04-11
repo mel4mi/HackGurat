@@ -1,5 +1,6 @@
-<div>
-<img alt="foto" src="https://github.com/mel4mi/HackGurat/blob/main/Depo/resimler/mobile-cybersecurity-companies.png">
+
+<div align="center">
+    ![Foto](https://github.com/mel4mi/HackGurat/blob/main/Depo/resimler/mobile-cybersecurity-companies.png)
 </div>
 
 ## Mobil Güvenlik Nedir?
