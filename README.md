@@ -15,7 +15,7 @@ NOT: bazı kısımlar hazırlık aşamasında.
      * [ Reverse Engineering](/Depo/uzmanlıklar/Reverse_Engineering) (tadilatta)
      * [ Network](/Depo/uzmanlıklar/Network) (tadilatta)
      * [ Forensic](/Depo/uzmanlıklar/Forensic)
-     * [ Mobile ](/Depo/uzmanlıklar/Mobile) (tadilatta)
+     * [ Mobile ](/Depo/uzmanlıklar/Mobile) 
      * [ Coding](/Depo/uzmanlıklar/Coding) 
        * [ Web Geliştirme](/Depo/uzmanlıklar/Coding/Web)
      
