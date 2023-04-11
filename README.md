@@ -29,7 +29,7 @@ NOT: bazı kısımlar hazırlık aşamasında.
      * [English](/Depo/faydalı_yazılar/English) (tadilatta)
   * ### PDF Kaynaklar(Resources):
      * [Türkçe](/Depo/kaynaklar/turkce) 
-     * [English](/Depo/kaynaklar/English)
+     * [English](Depo/kaynaklar/english)
 
 <!--
 ## Menü:
