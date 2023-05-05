@@ -24,7 +24,7 @@
  - 📝 [steganography](https://stylesuxx.github.io/steganography/) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
  - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
  - 📝 [fotoforensics](https://fotoforensics.com/) - Fotoğrafın üzerine efekt atarak gizlenmiş metinleri bulmamızı sağlar.
- - 🖼️ [Npiet](https://www.bertnase.de/npiet/npiet-execute.php)
+ - 🖼️ [Npiet](https://www.bertnase.de/npiet/npiet-execute.php) - fotoğraflarda bulunan pixeller üzerinden şifreleme yapan bir encoding metodu.
 
 * ### Cryptography:
 
@@ -33,12 +33,12 @@
 - 🃏 [Dcode](https://www.dcode.fr/) - Birbirinden farklı şifreleme metodlarını kırmanızı sağlar.
 - #️⃣ [CrackStation](https://crackstation.net/) - Online Hash kırma sitesi.
 - 🧮 [HashCat](https://hashcat.net/wiki/doku.php?id=example_hashes) - Örnek Hash listesi.
-- #️⃣ [Hash Killer](https://hashkiller.io/listmanager)
+- #️⃣ [Hash Killer](https://hashkiller.io/listmanager) - içinde bir sürü rainbow table bulunduran, büyük bir hash veritabanı.
 - 💻 [Devglan](https://www.devglan.com/online-tools/rsa-encryption-decryption) - RSA şifrelenmiş metni çözmemizi sağlar.
 - 📔 [Rsa.aspx](https://the-x.cn/en-US/cryptography/Rsa.aspx) - RSA şifrelenmiş metni çözmemizi sağlar.
 - 🔡 [PemDecoder](https://report-uri.com/home/pem_decoder) - PrivateKeyi çözmemizi sağlar.
 - 🛰️ [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - CTF yarışmalarının vazgeçilmezidir. Public key'den private key üretimine kadar bir çok işe yarar.
-- 🔶[Xor Calculator](https://toolslick.com/math/bitwise/xor-calculator)
+- 🔶[Xor Calculator](https://toolslick.com/math/bitwise/xor-calculator) - xor hesaplayıcı.
 - 📓 [Unicode Decoder](https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder)
 
 
