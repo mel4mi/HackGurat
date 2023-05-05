@@ -44,9 +44,9 @@
 
 * ### JWT Token:
 
-- 💰 [Jwt Generator](https://www.javainuse.com/jwtgenerator)
-- 💰 [Token Dev](https://token.dev/)
-- 💰 [Jwt.io](https://jwt.io/)
+- 💰 [Jwt Generator](https://www.javainuse.com/jwtgenerator) - belirttiğiniz parametrelerle json web tokeni üretmemizi sağlar.
+- 💰 [Token Dev](https://token.dev/) - jwt tokeni encode decode etme ve jwt tokeninin içeriğini değiştirme imkanı sağlar.
+- 💰 [Jwt.io](https://jwt.io/) - jwt tokeni encode decode etme ve jwt tokeninin içeriğini değiştirme imkanı sağlar
 
 
 
