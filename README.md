@@ -9,7 +9,7 @@ NOT: bazı kısımlar hazırlık aşamasında.
 
 
 ## Menü:
-  * ### Uzmanlıklar:
+  * ### Uzmanlıklar(Expertise):
      * [ Web](/Depo/uzmanlıklar/Web)
      * [ Crypto](/Depo/uzmanlıklar/Crypto) (tadilatta)
      * [ Reverse Engineering](/Depo/uzmanlıklar/Reverse_Engineering) (tadilatta)
@@ -19,12 +19,12 @@ NOT: bazı kısımlar hazırlık aşamasında.
      * [ Coding](/Depo/uzmanlıklar/Coding) 
        * [ Web Geliştirme](/Depo/uzmanlıklar/Coding/Web)
      
-  * ### Eğitim platformları:
+  * ### Eğitim platformları(Education Platforms):
      * [ Tryhackme](https://www.tryhackme.com) :star:
      * [ Diğerleri](/Depo/eğitim_platformları/)   
-  * ### Faydalı Linkler:
+  * ### Faydalı Linkler(Usefull Links):
      * [Faydalı Linkler](/Depo/faydali_linkler)
-  * ###  Faydalı Yazılar:
+  * ###  Faydalı Yazılar(Write-Ups):
      * [Türkçe](/Depo/faydalı_yazılar/Türkçe) (tadilatta)
      * [English](/Depo/faydalı_yazılar/English) (tadilatta)
   * ### PDF Kaynaklar(Resources):
