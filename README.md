@@ -17,7 +17,11 @@ NOT: bazı kısımlar hazırlık aşamasında.
      * [ Forensic](/Depo/uzmanlıklar/Forensic)
      * [ Mobile ](/Depo/uzmanlıklar/Mobile) 
      * [ Coding](/Depo/uzmanlıklar/Coding) 
-       * [ Web Geliştirme](/Depo/uzmanlıklar/Coding/Web)
+       * [ Web Developing](/Depo/uzmanlıklar/Coding/Web)
+       * [Python]()
+       * [C]()
+       * [C++]()
+       * [C#]()
      
   * ### Eğitim platformları(Education Platforms):
      * [ Tryhackme](https://www.tryhackme.com) :star:
