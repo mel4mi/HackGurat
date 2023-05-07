@@ -18,10 +18,10 @@ NOT: bazı kısımlar hazırlık aşamasında.
      * [ Mobile ](/Depo/uzmanlıklar/Mobile) 
      * [ Coding](/Depo/uzmanlıklar/Coding) 
        * [ Web Developing](/Depo/uzmanlıklar/Coding/Web)
-       * [Python]()
-       * [C]()
-       * [C++]()
-       * [C#]()
+       * [Python]() (tadilatta)
+       * [C]() (tadilatta)
+       * [C++]() (tadilatta)
+       * [C#]() (tadilatta)
      
   * ### Eğitim platformları(Education Platforms):
      * [ Tryhackme](https://www.tryhackme.com) :star:
