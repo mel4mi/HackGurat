@@ -10,13 +10,13 @@ NOT: bazı kısımlar hazırlık aşamasında.
 
 ## Menü:
   * ### Uzmanlıklar(Expertise):
-     * [ Web](/Depo/uzmanlıklar/Web)
-     * [ Crypto](/Depo/uzmanlıklar/Crypto) (tadilatta)
-     * [ Reverse Engineering](/Depo/uzmanlıklar/Reverse_Engineering) (tadilatta)
-     * [ Network](/Depo/uzmanlıklar/Network) (tadilatta)
-     * [ Forensic](/Depo/uzmanlıklar/Forensic)
-     * [ Mobile ](/Depo/uzmanlıklar/Mobile) 
-     * [ Coding](/Depo/uzmanlıklar/Coding) 
+     * [ Web](/Depo/uzmanlıklar/Web/README.md)
+     * [ Crypto](/Depo/uzmanlıklar/Crypto/README.md) (tadilatta)
+     * [ Reverse Engineering](/Depo/uzmanlıklar/Reverse_Engineering/README.md) (tadilatta)
+     * [ Network](/Depo/uzmanlıklar/Network/README.md) (tadilatta)
+     * [ Forensic](/Depo/uzmanlıklar/Forensic/README.md)
+     * [ Mobile ](/Depo/uzmanlıklar/Mobile/README.md) 
+     * [ Coding](/Depo/uzmanlıklar/Coding/README.md) 
        * [ Web Developing](/Depo/uzmanlıklar/Coding/Web/README.md)
        * [Python](/Depo/uzmanlıklar/Coding/Python/README.md) (tadilatta)
        * [C](/Depo/uzmanlıklar/Coding/C/README.md) (tadilatta)
@@ -25,15 +25,15 @@ NOT: bazı kısımlar hazırlık aşamasında.
      
   * ### Eğitim platformları(Education Platforms):
      * [ Tryhackme](https://www.tryhackme.com) :star:
-     * [ Diğerleri](/Depo/eğitim_platformları/)   
+     * [ Diğerleri](/Depo/eğitim_platformları/README.md)   
   * ### Faydalı Linkler(Usefull Links):
-     * [Faydalı Linkler](/Depo/faydali_linkler)
+     * [Faydalı Linkler](/Depo/faydali_linkler/README.md)
   * ###  Faydalı Yazılar(Write-Ups):
-     * [Türkçe](/Depo/faydalı_yazılar/Türkçe) (tadilatta)
-     * [English](/Depo/faydalı_yazılar/English) (tadilatta)
+     * [Türkçe](/Depo/faydalı_yazılar/Türkçe/README.md) (tadilatta)
+     * [English](/Depo/faydalı_yazılar/English/README.md) (tadilatta)
   * ### PDF Kaynaklar(Resources):
-     * [Türkçe](/Depo/kaynaklar/turkce) (tadilatta)
-     * [English](Depo/kaynaklar/english) (tadilatta)
+     * [Türkçe](/Depo/kaynaklar/turkce/README.md) (tadilatta)
+     * [English](Depo/kaynaklar/english/README.md) (tadilatta)
 
 <!--
 ## Menü:
