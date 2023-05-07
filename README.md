@@ -17,10 +17,10 @@ NOT: bazı kısımlar hazırlık aşamasında.
      * [ Forensic](/Depo/uzmanlıklar/Forensic)
      * [ Mobile ](/Depo/uzmanlıklar/Mobile) 
      * [ Coding](/Depo/uzmanlıklar/Coding) 
-       * [ Web Developing](/Depo/uzmanlıklar/Coding/Web)
-       * [Python]() (tadilatta)
-       * [C]() (tadilatta)
-       * [C++]() (tadilatta)
+       * [ Web Developing](/Depo/uzmanlıklar/Coding/Web/README.md)
+       * [Python](/Depo/uzmanlıklar/Coding/Python/README.md) (tadilatta)
+       * [C](/Depo/uzmanlıklar/Coding/C/README.md) (tadilatta)
+       * [C++](/Depo/uzmanlıklar/Coding/C++/README.md) (tadilatta)
        * [C#](/Depo/uzmanlıklar/C%23/README.md) (tadilatta)
      
   * ### Eğitim platformları(Education Platforms):
