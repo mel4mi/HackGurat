@@ -13,6 +13,8 @@ NOT: bazı kısımlar hazırlık aşamasında.
      * [ Web](/Depo/uzmanlıklar/Web/README.md)
      * [ Crypto](/Depo/uzmanlıklar/Crypto/README.md) (tadilatta)
      * [ Reverse Engineering](/Depo/uzmanlıklar/Reverse_Engineering/README.md) (tadilatta)
+       * [Malware](/Depo/uzmanlıklar/Reverse_Engineering/Malware)
+       * [Exploitation](/Depo/uzmanlıklar/Reverse_Engineering/Exploitation)
      * [ Network](/Depo/uzmanlıklar/Network/README.md) (tadilatta)
      * [ Forensic](/Depo/uzmanlıklar/Forensic/README.md)
      * [ Mobile ](/Depo/uzmanlıklar/Mobile/README.md) 
