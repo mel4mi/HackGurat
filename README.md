@@ -23,7 +23,7 @@ NOT: bazı kısımlar hazırlık aşamasında.
        * [Python](/Depo/uzmanlıklar/Coding/Python/README.md) (tadilatta)
        * [C](/Depo/uzmanlıklar/Coding/C/README.md) (tadilatta)
        * [C++](/Depo/uzmanlıklar/Coding/C++/README.md) (tadilatta)
-       * [C#](/Depo/uzmanlıklar/C%23/README.md) (tadilatta)
+       * [C#](/Depo/uzmanlıklar/C%23/README.md) (tadilatta)abv
      
   * ### Eğitim platformları(Education Platforms):
      * [ Tryhackme](https://www.tryhackme.com) :star:
