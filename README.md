@@ -38,6 +38,8 @@ NOT: bazı kısımlar hazırlık aşamasında.
      * [English](Depo/kaynaklar/english/README.md) (tadilatta)
 
 
+<br>
+<br>
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-mel4mi-black?logo=GitHubSponsors&style=for-the-badge)](https://github.com/sponsors/mel4mi?frequency=recurring&sponsor=mel4mi)
 
