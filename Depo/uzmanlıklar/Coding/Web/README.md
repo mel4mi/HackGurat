@@ -1,4 +1,4 @@
-
+![Foto](/Depo/resimler/cutted_developer_main.jpg)
 # Web Geliştirme:
 
 
