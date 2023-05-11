@@ -14,6 +14,14 @@
   * [ Veritabanı Sızma Testi ](/Depo/kaynaklar/turkce/pentest/7-VERİTABANI%20SIZMA%20TESTLERİ.pdff) - Kaynak BGA Security
   * [ DOS ve DDOS Testleri ](/Depo/kaynaklar/turkce/pentest/8-DOS%20DDOS%20TESTLERİ.pdf) - Kaynak BGA Security
   * [ Web Mobil Sızma Testleri ](/Depo/kaynaklar/turkce/pentest/9-WEB%20VE%20MOBİL%20SIZMA%20TESTLERİ.pdf) - Kaynak BGA Security
+  * [Metasploit El Kitabı](/Depo/kaynaklar/turkce/pentest/Metasploit%20El%20Kitab%C4%B1.pdf)
+  * [Metasploit Giriş Seviyesi](/Depo/kaynaklar/turkce/pentest/Metasploit%20Giri%C5%9F%20Seviyesi.pdf)
+  * [Metasploit Giriş Seviyesi Denetmen Rehberi](/Depo/kaynaklar/turkce/pentest/msf1.0.pdf)
+  * [Penetration Araçları](/Depo/kaynaklar/turkce/pentest/Peneterasyon%20Ara%C3%A7lar%C4%B1.pdf)
+  * [Örnek Pentest Raporu](/Depo/kaynaklar/turkce/pentest/Pentest_Raporu.pdf)
+  * [MFA2+ Hack Teknikleri El Kitabı](/Depo/kaynaklar/turkce/pentest/MFA2%2B%20Hack%20Teknikleri%20El%20Kitab%C4%B1.pdf)
+  * [Samurai Framework ile Hacking 1 ](/Depo/kaynaklar/turkce/pentest/SAMURA%C4%B0%20FRAMEWORK%20%C4%B0LE%20HACK%C4%B0NG-1%20(FOOTPRINTING).pdf)
+  * [Yetki Yükseltme Saldırıları](/Depo/kaynaklar/turkce/pentest/YETK%C4%B0%20Y%C3%9CKSELTME%20SALDIRILARI-windows-and-linux-privilege-escalation.pdf)
 * ### Web Güvenliği:
   * [ Web Güvenlik Duvarı Bypass İşlemi ](/Depo/kaynaklar/turkce/web/WAF%20Bypass%20Etme.pdf)
   * [ Web Uygulama Kaynak Kod Analizi ](/Depo/kaynaklar/turkce/web/Web%20Uygulama%20Kaynak%20Kod%20Analizi.pdf)
