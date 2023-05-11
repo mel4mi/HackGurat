@@ -3,6 +3,7 @@
 
 * ### Altyapı:
   * [ Phising Saldırılarının Takibi ](/Depo/kaynaklar/turkce/web/Phishing%20Saldırılarının%20Takibi.pdf) - Kaynak BGA Security
+  * [ HTML Temelleri ](/Depo/kaynaklar/turkce/web/html_basic.pdf)
 * ### Pentest:
   * [ Bilgi Toplama ](/Depo/kaynaklar/turkce/pentest/1-SIZMA%20TESTLERİNDE%20BİLGİ%20TOPLAMA.pdf) - Kaynak BGA Security
   * [ Port Tarama ](/Depo/kaynaklar/turkce/pentest/2-PORT%20TARAMA%20VE%20KEŞİF%20ÇALIŞMALARI.pdf) - Kaynak BGA Security
@@ -17,7 +18,6 @@
   * [ Web Güvenlik Duvarı Bypass İşlemi ](/Depo/kaynaklar/turkce/web/WAF%20Bypass%20Etme.pdf)
   * [ Web Uygulama Kaynak Kod Analizi ](/Depo/kaynaklar/turkce/web/Web%20Uygulama%20Kaynak%20Kod%20Analizi.pdf)
   * [ Web Güvenliği ](/Depo/kaynaklar/turkce/web/Web_Guvenligi_lyk2014_1zinnur9.pdf)
-  * [ HTML Temelleri ](/Depo/kaynaklar/turkce/web/html_basic.pdf)
   * [ Web Uygulama Güvenliği ](/Depo/kaynaklar/turkce/web/webappsec-101.pdf)
   
   
