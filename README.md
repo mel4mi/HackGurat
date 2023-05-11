@@ -34,8 +34,8 @@ NOT: bazı kısımlar hazırlık aşamasında.
      * [Türkçe](/Depo/faydalı_yazılar/Türkçe/README.md) (tadilatta)
      * [English](/Depo/faydalı_yazılar/English/README.md) (tadilatta)
   * ### PDF Kaynaklar(Resources):
-     * [Türkçe](/Depo/kaynaklar/turkce/README.md) (tadilatta)
-     * [English](Depo/kaynaklar/english/README.md) (tadilatta)
+     * [Türkçe](/Depo/kaynaklar/turkce/README.md) 
+     * [English](Depo/kaynaklar/english/README.md) 
 
 
 <br>
