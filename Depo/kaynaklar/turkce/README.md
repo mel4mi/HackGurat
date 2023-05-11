@@ -4,6 +4,16 @@
 * ### Altyapı:
   * [ Phising Saldırılarının Takibi ](/Depo/kaynaklar/turkce/web/Phishing%20Saldırılarının%20Takibi.pdf) - Kaynak BGA Security
   * [ HTML Temelleri ](/Depo/kaynaklar/turkce/web/html_basic.pdf)
+  * [Büyük Veri Uygulamalarında Kişisel veri Mahremiyeti](/Depo/kaynaklar/turkce/Altyap%C4%B1/B%C3%BCy%C3%BCk-Veri-Uygulamalar%C4%B1nda-Ki%C5%9Fisel-Veri-Mahremiyeti.pdf)
+  * [Linux komut satırı](/Depo/kaynaklar/turkce/Altyap%C4%B1/Linux%20Komut%20Sat%C4%B1r%C4%B1.pdf)
+  * [Linux İşletim Sistemi](/Depo/kaynaklar/turkce/Altyap%C4%B1/Linux%20%C4%B0%C5%9Fletim%20Sistemi.pdf)
+  * [Linux Server Yönetimi](/Depo/kaynaklar/turkce/Altyap%C4%B1/Linux%20Server%20Y%C3%B6netimi.pdf)
+  * [Ofansif ve Defansif Powershell](/Depo/kaynaklar/turkce/Altyap%C4%B1/Ofansif%20ve%20Defansif%20Powershell.pdf)
+  * [Siber Güvenlik Yol Haritası](/main/Depo/kaynaklar/turkce/Altyap%C4%B1/Siber%20G%C3%BCvenlik%20Yol%20Haritas%C4%B1.pdf)
+  * [Siber Savaş ve Saldırılar](/Depo/kaynaklar/turkce/Altyap%C4%B1/Siber%20Sava%C5%9Flar%20ve%20Sald%C4%B1r%C4%B1lar.pdf)
+  * [Scada Offensive](/Depo/kaynaklar/turkce/Altyap%C4%B1/scada-offensibe.pdf)
+  * [Zombi Bilgisayar](/Depo/kaynaklar/turkce/Altyap%C4%B1/zombi_bilgisayar.pdf)
+  * [Tcp - Ip](/Depo/kaynaklar/turkce/Altyap%C4%B1/tcpip.pdf)
 * ### Pentest:
   * [ Bilgi Toplama ](/Depo/kaynaklar/turkce/pentest/1-SIZMA%20TESTLERİNDE%20BİLGİ%20TOPLAMA.pdf) - Kaynak BGA Security
   * [ Port Tarama ](/Depo/kaynaklar/turkce/pentest/2-PORT%20TARAMA%20VE%20KEŞİF%20ÇALIŞMALARI.pdf) - Kaynak BGA Security
