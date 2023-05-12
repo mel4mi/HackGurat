@@ -15,6 +15,7 @@
  - 🌐 [SerContent](https://bgp.he.net/dns/sercontent.com) - 
  - 📖 [Archive](https://archive.org/web/) - Sitenin eski versionlarını gösterir.
  - ♟️ [Osint dojo](https://www.osintdojo.com/diagrams/twitter) - Twitter osint için yol haritası
+ - 📛 [scamadviser](https://www.scamadviser.com/) - şüpheli sitenin scam olup olmadığı hakkında testler yapar.
 
 
 * ### Forensic:
