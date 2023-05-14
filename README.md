@@ -12,7 +12,7 @@ NOT: bazı kısımlar hazırlık aşamasında.
   * ### Uzmanlıklar(Expertise):
      * [ Web](/Depo/uzmanlıklar/Web/README.md)
      * [ Crypto](/Depo/uzmanlıklar/Crypto/README.md) (tadilatta)
-     * [ Reverse Engineering](/Depo/uzmanlıklar/Reverse_Engineering/README.md) (tadilatta)
+     * [ Reverse Engineering](/Depo/uzmanlıklar/Reverse_Engineering/README.md) 
        * [Malware](/Depo/uzmanlıklar/Reverse_Engineering/Malware) (tadilatta)
        * [Exploitation](/Depo/uzmanlıklar/Reverse_Engineering/Exploitation) (tadilatta)
      * [ Network](/Depo/uzmanlıklar/Network/README.md) (tadilatta)
