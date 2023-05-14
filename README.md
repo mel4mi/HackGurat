@@ -1,4 +1,4 @@
-# siber-guvenlik-ziggurat
+# Siber Güvenlik Ziggurat
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mel4mi.siber-guvenlik-ziggurat)
  <p></p>
 <img alt="ziggurat Logo" src="https://github.com/mel4mi/siber-guvenlik-ziggurat/blob/main/Depo/resimler/ziggurat-preview.png" />
