@@ -29,6 +29,7 @@ NOT: bazı kısımlar hazırlık aşamasında.
      * [ Tryhackme](https://www.tryhackme.com) :star:
      * [ Diğerleri](/Depo/eğitim_platformları/README.md)   
   * ### Faydalı Linkler(Usefull Links):
+     * [AI Links](/Depo/ai/README.md) 
      * [Faydalı Linkler](/Depo/faydali_linkler/README.md)
   * ###  Faydalı Yazılar(Write-Ups):
      * [Türkçe](/Depo/faydalı_yazılar/Türkçe/README.md) (tadilatta)
