@@ -10,6 +10,7 @@
   * [Osint_Collection](https://github.com/Ph055a/OSINT_Collection)
   * denem2
 * Forensic
+  * [MetaData](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) 
   * [hiding data in image](https://null-byte.wonderhowto.com/how-to/steganography-hide-secret-data-inside-image-audio-file-seconds-0180936/)
   * [An Art of Hiding Data](https://arxiv.org/ftp/arxiv/papers/0912/0912.2319.pdf)
   * [Misc - audio](https://ctf-wiki.mahaloz.re/misc/audio/introduction/)
@@ -18,6 +19,7 @@
 * Reverse Engineering
   * denem3
 * Infrastructure
+  * [DPI System](https://en.wikipedia.org/wiki/Deep_packet_inspection)
   * [INTERNET CONTROL MESSAGE PROTOCOL](https://www.rfc-editor.org/rfc/rfc792)
   * [TRANSMISSION CONTROL PROTOCOL](https://www.rfc-editor.org/rfc/rfc793)
   * [INTERNET CONTROL MESSAGE PROTOCOL](https://www.rfc-editor.org/rfc/rfc792)
