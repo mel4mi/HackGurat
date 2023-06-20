@@ -7,7 +7,7 @@
   * [Python](https://docs.python.org/3/) 
   * [readme.md](https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project)
 * Osint
-  * denem1
+  * [Osint_Collection](https://github.com/Ph055a/OSINT_Collection)
   * denem2
 * Forensic
   * [hiding data in image](https://null-byte.wonderhowto.com/how-to/steganography-hide-secret-data-inside-image-audio-file-seconds-0180936/)
