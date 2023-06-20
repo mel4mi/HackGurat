@@ -42,6 +42,7 @@
 - 🔶[Xor Calculator](https://toolslick.com/math/bitwise/xor-calculator) - xor hesaplayıcı.
 - 📓 [Unicode Decoder](https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder)
 - :accessibility: [QuipQuip](https://quipqiup.com/) - Tamamen otomatiklerşmiş kriptografik metinleri çözen site.
+- 🔡 [Encrack](https://github.com/vlohacks/encrack) - openssl enc stili şifrelenmiş dosyaları kırma aracı. (kurulum gerektirir)
 
 
 * ### JWT Token:
