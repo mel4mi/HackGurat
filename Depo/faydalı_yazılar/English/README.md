@@ -28,3 +28,4 @@
 * Pentest
   * [Smb enumration](https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/)
   * [Linux Privilege Escalation](https://touhidshaikh.com/blog/2018/04/abusing-sudo-linux-privilege-escalation/)
+  * [Escape from rbash to bash shell](https://gist.github.com/PSJoshi/04c0e239ac7b486efb3420db4086e290)
