@@ -41,6 +41,7 @@
 - 🛰️ [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - CTF yarışmalarının vazgeçilmezidir. Public key'den private key üretimine kadar bir çok işe yarar.
 - 🔶[Xor Calculator](https://toolslick.com/math/bitwise/xor-calculator) - xor hesaplayıcı.
 - 📓 [Unicode Decoder](https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder)
+- :accessibility: [QuipQuip](https://quipqiup.com/) - Tamamen otomatiklerşmiş kriptografik metinleri çözen site.
 
 
 * ### JWT Token:
