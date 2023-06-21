@@ -7,6 +7,11 @@ Merhabalar ben [Muhammed](https://www.linkedin.com/in/muhammed-uzuner/) yaklaş�
 
 NOT: bazı kısımlar hazırlık aşamasında.
 
+--------------------------------------------------------------------------------------------
+Hello, my name is Muhammed, and I have been interested in cybersecurity since approximately 2018. I actively participate in Capture The Flag (CTF) competitions. I will try to share the resources and knowledge I have used on this journey with you. Hopefully, I can assist you on your cybersecurity roadmap as well. You can use the issues section for suggestions and complaints.
+
+NOTE: Some sections are still under preparation
+
 
 ## Menü:
   * ### Uzmanlıklar(Expertise):
