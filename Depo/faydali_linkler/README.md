@@ -16,6 +16,7 @@
  - 📖 [Archive](https://archive.org/web/) - Sitenin eski versionlarını gösterir.
  - ♟️ [Osint dojo](https://www.osintdojo.com/diagrams/twitter) - Twitter osint için yol haritası
  - 📛 [scamadviser](https://www.scamadviser.com/) - şüpheli sitenin scam olup olmadığı hakkında testler yapar.
+ - 🖨️ [Router Password Database](https://www.routerpasswords.com/) - Modem default şifrelerini bulunduran veritabanı.
 
 
 * ### Forensic:
