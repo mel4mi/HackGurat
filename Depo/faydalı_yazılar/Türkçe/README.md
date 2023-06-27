@@ -26,6 +26,13 @@
   * [apt](https://www.turkhackteam.org/konular/advanced-persistent-thret-apt-nedir.2019692/) - "Gelişmiş Sürekli Tehdit" diye çevrilebilecek, saldırı senaryolarının oluşumunu anlatan yazı.
 
 
+
+
+
+
+<br>
+<br>
+
   ## Öneriler:
 
   önerileriniz için lütfen issues kısmını kullanın
