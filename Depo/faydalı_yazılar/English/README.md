@@ -32,6 +32,5 @@
   * [Escape from rbash to bash shell](https://gist.github.com/PSJoshi/04c0e239ac7b486efb3420db4086e290)
  
   ## Suggesiton:
-
   please use the issues section for your suggestions
   [Issues](https://github.com/mel4mi/HackGurat/issues)
