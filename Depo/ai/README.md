@@ -9,6 +9,7 @@
  - ♟️ [Namelix](https://namelix.com/) - İsim üreten yapay zeka modeli. Baya iş yapıyor.
  - 🖌️ [Pixelicious](https://www.pixelicious.xyz/) - yüklediğiniz resmi pixel art'a dönüştürür.
  - 💢 [Bing](https://www.bing.com/?/ai) - Microsoft'un gpt4 ile bing arama motorunu birleştirdiği yapay zeka.
+ - :accessibility: [Bard](https://bard.google.com/?hl=en) Google'ın tasarladığı, kendisine ait yapay zeka modeli.
 
 
 
