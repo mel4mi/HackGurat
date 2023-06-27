@@ -1,7 +1,7 @@
 * ### Security Roadmap
  - [Security cert roadmap](https://pauljerimy.com/security-certification-roadmap/) - Siber güvenlik alanında ilerlemek için almanız gereken sertifikalar.
  - [NetFocus trophy list](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#) - Siber güvenlik alanında alıştırma yapmak için vm listesi.
- - [aboutdfir ctf library](https://aboutdfir.com/education/challenges-ctfs/) - geçmişte düzenlenen önemli ctf yarışmalarının sorularının tutulduğu kütüphane.
+ - [aboutdfir ctf library](https://aboutdfir.com/education/challenges-ctfs/) - Geçmişte düzenlenen önemli ctf yarışmalarının sorularının tutulduğu kütüphane.
  - [Raw Sec](https://inventory.raw.pm/overview.html) - Rawsec'e ait tooların,ctflerin ve kaynakların bulunduğu dev arşiv.
 * ### Faydalı Linkler
  - ℹ️ [Ifixit](https://www.ifixit.com/) - Herhangi bir şeyi nasıl tamir edeceğinizi açıklar.
@@ -18,8 +18,9 @@
  - 🌐 [SerContent](https://bgp.he.net/dns/sercontent.com) - 
  - 📖 [Archive](https://archive.org/web/) - Sitenin eski versionlarını gösterir.
  - ♟️ [Osint dojo](https://www.osintdojo.com/diagrams/twitter) - Twitter osint için yol haritası
- - 📛 [scamadviser](https://www.scamadviser.com/) - şüpheli sitenin scam olup olmadığı hakkında testler yapar.
+ - 📛 [scamadviser](https://www.scamadviser.com/) - Şüpheli sitenin scam olup olmadığı hakkında testler yapar.
  - 🖨️ [Router Password Database](https://www.routerpasswords.com/) - Modem default şifrelerini bulunduran veritabanı.
+ - 🧵 [Threat intelligences](https://threatintelligenceplatform.com/) - Domain için siber tehdit istihbaratı.
 
 
 * ### Forensic:
@@ -29,7 +30,7 @@
  - 📝 [steganography](https://stylesuxx.github.io/steganography/) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
  - 📝 [MobileFish](https://www.mobilefish.com/services/steganography/steganography.php) - Fotoğrafın içine gizlenmiş mesajları çıkarmanıza yarar.
  - 📝 [fotoforensics](https://fotoforensics.com/) - Fotoğrafın üzerine efekt atarak gizlenmiş metinleri bulmamızı sağlar.
- - 🖼️ [Npiet](https://www.bertnase.de/npiet/npiet-execute.php) - fotoğraflarda bulunan pixeller üzerinden şifreleme yapan bir encoding metodu.
+ - 🖼️ [Npiet](https://www.bertnase.de/npiet/npiet-execute.php) - Fotoğraflarda bulunan pixeller üzerinden şifreleme yapan bir encoding metodu.
 
 * ### Cryptography:
 
@@ -46,8 +47,9 @@
 - 🔶[Xor Calculator](https://toolslick.com/math/bitwise/xor-calculator) - xor hesaplayıcı.
 - 📓 [Unicode Decoder](https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder)
 - :accessibility: [QuipQuip](https://quipqiup.com/) - Tamamen otomatiklerşmiş kriptografik metinleri çözen site.
-- 🔡 [Encrack](https://github.com/vlohacks/encrack) - openssl enc stili şifrelenmiş dosyaları kırma aracı. (kurulum gerektirir)
+- 🔡 [Encrack](https://github.com/vlohacks/encrack) - Openssl enc stili şifrelenmiş dosyaları kırma aracı. (kurulum gerektirir)
 - 🅰️ [Cracking exercise](https://www.thehacker.recipes/ad/movement/credentials/cracking) - Hash kırmak için alıştırmaların bulunduğu eğitici içerik.
+- 🧭 [lostmypass](https://www.lostmypass.com/file-types/zip/) - Zip dosyalarının şifrelerini kırmaya yarar(başka dosya tiplerini de destekler).
 
 
 * ### JWT Token:
