@@ -1,4 +1,5 @@
-
+* ### Security Roadmap
+ - [Security cert roadmap](https://pauljerimy.com/security-certification-roadmap/) - Siber güvenlik alanında ilerlemek için almanız gereken sertifikalar.
 
 * ### Faydalı Linkler
  - ℹ️ [Ifixit](https://www.ifixit.com/) - Herhangi bir şeyi nasıl tamir edeceğinizi açıklar.
