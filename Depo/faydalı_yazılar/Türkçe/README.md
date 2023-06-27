@@ -24,3 +24,9 @@
   * denem3
 * Pentest
   * [apt](https://www.turkhackteam.org/konular/advanced-persistent-thret-apt-nedir.2019692/) - "Gelişmiş Sürekli Tehdit" diye çevrilebilecek, saldırı senaryolarının oluşumunu anlatan yazı.
+
+
+  ## Öneriler:
+
+  önerileriniz için lütfen issues kısmını kullanın
+  [Issues](https://github.com/mel4mi/HackGurat/issues)
