@@ -8,7 +8,6 @@
   * [readme.md](https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project)
 * Osint
   * [Osint_Collection](https://github.com/Ph055a/OSINT_Collection)
-  * denem2
 * Forensic
   * [MetaData](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) 
   * [hiding data in image](https://null-byte.wonderhowto.com/how-to/steganography-hide-secret-data-inside-image-audio-file-seconds-0180936/)
@@ -16,8 +15,9 @@
   * [Misc - audio](https://ctf-wiki.mahaloz.re/misc/audio/introduction/)
 * Web
   * [What is the Document Object Model?](https://www.w3.org/TR/REC-DOM-Level-1/introduction.html)
+  * [Lfi Cheat Sheet](https://highon.coffee/blog/lfi-cheat-sheet/#php-wrapper-phpfilter)
 * Reverse Engineering
-  * denem3
+  * example
 * Infrastructure
   * [DPI System](https://en.wikipedia.org/wiki/Deep_packet_inspection)
   * [INTERNET CONTROL MESSAGE PROTOCOL](https://www.rfc-editor.org/rfc/rfc792)
