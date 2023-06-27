@@ -52,7 +52,8 @@ NOTE: Some sections are still under preparation
   Önerileriniz için lütfen issues kısmını kullanın --> [Issues](https://github.com/mel4mi/HackGurat/issues) <br>
   Please use the issues section for your suggestions --> [Issues](https://github.com/mel4mi/HackGurat/issues)
 
-<br>
+
+
   ## Sponsorship:
 
   [![Sponsor](https://img.shields.io/badge/Sponsor-mel4mi-black?logo=GitHubSponsors&style=for-the-badge)](https://github.com/sponsors/mel4mi?frequency=recurring&sponsor=mel4mi)
