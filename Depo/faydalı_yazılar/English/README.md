@@ -25,6 +25,7 @@
   * [INTERNET CONTROL MESSAGE PROTOCOL](https://www.rfc-editor.org/rfc/rfc792)
   * [rfc1035](https://www.ietf.org/rfc/rfc1035.txt)
   * [How the NFS Service Works](https://docs.oracle.com/cd/E19683-01/816-4882/6mb2ipq7l/index.html)
+  * [is sms secure ?](https://krebsonsecurity.com/2021/03/can-we-stop-pretending-sms-is-secure-now/)
 * Pentest
   * [Smb enumration](https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/)
   * [Linux Privilege Escalation](https://touhidshaikh.com/blog/2018/04/abusing-sudo-linux-privilege-escalation/)
