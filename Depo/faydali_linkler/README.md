@@ -1,6 +1,6 @@
 * ### Security Roadmap
  - [Security cert roadmap](https://pauljerimy.com/security-certification-roadmap/) - Siber güvenlik alanında ilerlemek için almanız gereken sertifikalar.
-
+ - [NetFocus trophy list](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#) - Siber güvenlik alanında alıştırma yapmak için vm listesi.
 * ### Faydalı Linkler
  - ℹ️ [Ifixit](https://www.ifixit.com/) - Herhangi bir şeyi nasıl tamir edeceğinizi açıklar.
  - 🌐 [RevShells](https://www.revshells.com/) - Birbirinden farklı dillerde otomatik ReverseShell üretmemize sağlar.
