@@ -10,7 +10,9 @@
  - 🖌️ [Pixelicious](https://www.pixelicious.xyz/) - yüklediğiniz resmi pixel art'a dönüştürür.
  - 💢 [Bing](https://www.bing.com/?/ai) - Microsoft'un gpt4 ile bing arama motorunu birleştirdiği yapay zeka.
  - :accessibility: [ Bard](https://bard.google.com/?hl=en) Google'ın tasarladığı, kendisine ait yapay zeka modeli.
-
+ - 🧔 [MidJourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) - Metinsel açıklamaları görselleştiren yapay zeka modeli.
+ - ▶️ [Canva](https://www.canva.com/ai-image-generator/) - Canva'nın metinsel açıklamaları görselleştiren yapay zeka modeli.
+ - 🔢 [Huggingface - QR](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator) - Görselleştirilmiş - Güzelleştirilmiş qr kod üretebilen yapay zeka modeli.
 
 
 
