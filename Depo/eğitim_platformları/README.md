@@ -26,8 +26,8 @@
  -  [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) - Yeni başlayanlar için en iyi platformlardan bir tanesidir.
  -  [DVWA](https://github.com/digininja/DVWA) - Web Uygulama Güvenliği için sanal web sunucusu(kurulum gerektirir).
  -  [Juice-Shop](https://github.com/juice-shop/juice-shop) - Modern Web Uygulama Güvenliği için sanal web sunucusu(kurulum gerektirir).
- -  [Root- Me](https://www.root-me.org/?lang=en)
- -  [Hacker 101](https://ctf.hacker101.com/)
- -  [ringzer0ctf](https://ringzer0ctf.com/challenges)
+ -  [Root- Me](https://www.root-me.org/?lang=en) - 
+ -  [Hacker 101](https://ctf.hacker101.com/) - 
+ -  [ringzer0ctf](https://ringzer0ctf.com/challenges) - 
  - [aboutdfir ctf library](https://aboutdfir.com/education/challenges-ctfs/) - geçmişte düzenlenen önemli ctf yarışmalarının sorularının tutulduğu kütüphane.
 
