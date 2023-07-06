@@ -61,26 +61,28 @@ Yukarıdaki fotoğrafa dikkatli bakarsak farklı 2 metin ve metinlerin boyutlar�
 ### Cryptology Uzmanı ne iş yapar ? 
 Gösterdiğim bu 3 alan ve daha nice alanları bünyesinde bulunduran ve genel olarak veri güvenliğini sağlayan uzmanlara cryptology uzmanları denir. Yukarıda anlattığım algoritmalar sürekli güncellenmeye ve geliştirilmeye ihtiyaç duyar çünkü her zaman akıl akıldan üstündür. Tarihde öncesine baktığımız zaman nist standartı olarak kabul edilen DES algoritması şuan kullanılması tabiri caizse yasaklanmıştır. Çünkü sahip olduğu algoritma bugünkü şartlar altında çok kolay bir şekilde kırılmaktadır. Hakeza şuan kullandığımız ssl aslında zaafiyetlerinden dolayı 6 defa değiştirilerek şuan tls olarak kullandığımız hale gelmiştir. İşte bu yüzden Cryptology uzmanları şifreleme sistemleri üretir, şifreleme algoritmalarını güvenliğini test eder ve şifrelemeleri çözmeye çalışır. 
 
-<!--
-Notlar:
-
-Kaynaklar:
-https://www.mehmetince.net/crypto-101-1-merhaba-exclusive-or-xor/
-https://www.youtube.com/watch?v=p__QZIxjHMk&list=PL1H1sBF1VAKU05UWhDDwl38CV4CIk7RLJ
-https://www.youtube.com/watch?v=j9xht4K-MBk
 
 
-lablar:
-https://capturetheflag.withgoogle.com/challenges
-https://www.csaw.io/csaw19archive
+
+## Kaynaklar:
+- [Xor Nedir](https://www.mehmetince.net/crypto-101-1-merhaba-exclusive-or-xor/)
+- [Single-Byte XOR | CSAW CTF "babycrypto"](https://www.youtube.com/watch?v=p__QZIxjHMk&list=PL1H1sBF1VAKU05UWhDDwl38CV4CIk7RLJ)
+- [Simple Cryptography Ctf](https://www.youtube.com/watch?v=j9xht4K-MBk)
 
 
 
 
 
+### lablar:
+- [Google ctf](https://capturetheflag.withgoogle.com/challenges)
+- [Csaw19](https://www.csaw.io/csaw19archive)
 
 
 
 
 
--->
+
+
+
+
+
