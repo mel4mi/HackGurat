@@ -16,7 +16,7 @@
 * Web
   * [What is the Document Object Model?](https://www.w3.org/TR/REC-DOM-Level-1/introduction.html)
   * [Lfi Cheat Sheet](https://highon.coffee/blog/lfi-cheat-sheet/#php-wrapper-phpfilter)
-  * [Web Uygularamalarına FFUF ile saldırmak](/Depo/kaynaklar/english/web/ATTACKING%20WEB%20APPLICATIONS%20WITH%20FFUF.pdf)
+  * [Attack Web Applications with fuff(/Depo/kaynaklar/english/web/ATTACKING%20WEB%20APPLICATIONS%20WITH%20FFUF.pdf)
 * Reverse Engineering
   * [empty](/)
 * Infrastructure
