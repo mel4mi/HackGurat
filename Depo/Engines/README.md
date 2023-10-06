@@ -7,7 +7,7 @@
 6. [ZoomEye](https://zoomeye.org) - İnternet üzerindeki cihazlar ve servisler için bilgi toplar.
 7. [Greynoise](https://viz.greynoise.io) - Tehdit istihbaratı ve kötü niyetli IP adresleri için bilgi sunar.
 8. [FullHunt](https://fullhunt.io) - Güvenlik olayları izlemek ve tehdit istihbaratı için kullanılır.
-9. [SOcradar](https://socradar.io) - Ağ güvenliği analizi için bilgi toplar.
+9. [SOCradar](https://socradar.io) - Ağ güvenliği analizi için bilgi toplar.
 10. [IntelX](https://intelx.io) - İnternet üzerindeki verileri ve sızıntıları aramak için kullanılır.
 
 ## Veri Arama ve Kod İnceleme
