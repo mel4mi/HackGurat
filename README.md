@@ -3,12 +3,6 @@
  <p></p>
 <img alt="ziggurat Logo" src="https://github.com/mel4mi/siber-guvenlik-ziggurat/blob/main/Depo/resimler/ziggurat-preview.png" />
 
-Merhabalar ben [Muhammed](https://www.linkedin.com/in/muhammed-uzuner/) yaklaşık 2018 den beri siber güvenlikle ilgileniyorum. Aktif olarak da ctf yarışmalarına katılıyorum. Bu yolda kullandığım kaynakları ve bilgileri sizle paylaşmaya çalışacağım. Umarım sizinde Siber Güvenlik yol haritanızda yardımcı olabilirim. Öneri ve şikayetleriniz için issues kısmını kullanabilirsiniz.
-
-NOT: bazı kısımlar hazırlık aşamasında.
-
---------------------------------------------------------------------------------------------
-Hello, my name is [Muhammed](https://www.linkedin.com/in/muhammed-uzuner/), and I have been interested in cybersecurity since approximately 2018. I actively participate in Capture The Flag (CTF) competitions. I will try to share the resources and knowledge I have used on this journey with you. Hopefully, I can assist you on your cybersecurity roadmap as well. You can use the issues section for suggestions and complaints.
 
 NOTE: Some sections are still under preparation
 
