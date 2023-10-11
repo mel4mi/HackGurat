@@ -50,8 +50,7 @@ NOTE: Some sections are still under preparation
 
 
   ## Become a Sponsor:
-
-  [![Sponsor](https://img.shields.io/badge/Sponsor-mel4mi-black?logo=GitHubSponsors&style=for-the-badge)](https://github.com/sponsors/mel4mi?frequency=recurring&sponsor=mel4mi)
+  <a href="https://www.buymeacoffee.com/mel4mi" target="_blank"><img align="left" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  /></a>
 
 <!--
 ## Menü:
