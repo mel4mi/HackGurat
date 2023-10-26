@@ -10,8 +10,9 @@
 
 #
 
-| [HackingLab](https://hacking-lab.com/events/) | Canlı CTF yarışmaları bulunduran sitedir. |
+| Platform İsmi                                   | Açıklama                                           |
 |------------------------------------|-------------------------------------------------------|
+| [HackingLab](https://hacking-lab.com/events/) | Canlı CTF yarışmaları bulunduran sitedir. |
 | [Crackmes](https://crackmes.one/) | Tersine Mühendislik için çeşitli lablar bulunduran sitedir. |
 | [CTF_HackTheBox](https://ctf.hackthebox.com/) | Hackthebox'ın ev sahipliğini yaptığı ve canlı CTF yarışmaları düzenlenen sitesidir. |
 | [Aboutdfir](https://aboutdfir.com/education/challenges-ctfs/) | Birçok alandan lab ortamları bulunduran sitedir. |
