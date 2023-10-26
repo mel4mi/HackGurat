@@ -1,4 +1,3 @@
-Tabloya dökülmüş bir liste oluşturmak için aşağıdaki gibi bir format kullanabilirsiniz:
 
 | Platform İsmi                                   | Açıklama                                           |
 |---------------------------------|---------------------------------------------------|
@@ -31,4 +30,4 @@ Tabloya dökülmüş bir liste oluşturmak için aşağıdaki gibi bir format ku
 | [ringzer0ctf](https://ringzer0ctf.com/challenges) | |
 | [aboutdfir ctf library](https://aboutdfir.com/education/challenges-ctfs/) | Geçmişte düzenlenen önemli CTF yarışmalarının sorularının tutulduğu kütüphane. |
 
-Bu şekilde düzenlenmiş bir tablo, platformları kategorilere ayırarak daha okunaklı bir listeye dönüştürecektir.
+
