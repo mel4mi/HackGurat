@@ -18,6 +18,8 @@
 | 9 | [APT](https://www.turkhackteam.org/konular/advanced-persistent-thret-apt-nedir.2019692/) | "Gelişmiş Sürekli Tehdit" diye çevrilebilecek, saldırı senaryolarının oluşumunu anlatan yazı |
 | 10 | [Linux Dersleri](https://github.com/taylanbildik/Linux_Dersleri) | Kali Linux Üzerinden İşlenen Linux Komut Satırı Dersleri Dokümantasyon Kaynağ |
 | 11 |  [Hackerlar için Go](https://ahmetumitbayram.gitbook.io/go-for-hackers/) | Hackerlar için Go dili dökümantasyonu |
+| 12 | [Python Dökümantasyonu](https://python-istihza.yazbel.com/index.html) | Python için dökümantasyon |
+
 
 
 
