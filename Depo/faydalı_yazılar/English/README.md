@@ -22,6 +22,7 @@
 | 20  | [Smb enumration](https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/) |                 |
 | 21  | [Linux Privilege Escalation](https://touhidshaikh.com/blog/2018/04/abusing-sudo-linux-privilege-escalation/) |    |
 | 22  | [Escape from rbash to bash shell](https://gist.github.com/PSJoshi/04c0e239ac7b486efb3420db4086e290) |      |
+| 23 | [Strategic Cyber Security Report — September 2023 Edition](https://medium.com/cloudnsec/strategic-cyber-security-report-september-2023-edition-18604c18cd62) |A Monthly summary of Strategic Information for Cyber Security Leaders |
 
 
 
