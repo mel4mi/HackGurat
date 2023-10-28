@@ -24,6 +24,7 @@
 | 22  | [Escape from rbash to bash shell](https://gist.github.com/PSJoshi/04c0e239ac7b486efb3420db4086e290) |      |
 | 23 | [Strategic Cyber Security Report — September 2023 Edition](https://medium.com/cloudnsec/strategic-cyber-security-report-september-2023-edition-18604c18cd62) |A Monthly summary of Strategic Information for Cyber Security Leaders |
 | 24 | [Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker) ||
+| 25 | [APT Groups](https://www.mandiant.com/resources/insights/apt-groups) ||
 
 
 
