@@ -27,3 +27,4 @@
 | 25  | [Penetration Araçları](/Depo/kaynaklar/turkce/pentest/Peneterasyon%20Ara%C3%A7lar%C4%B1.pdf) | |
 | 26  | [Örnek Pentest Raporu](/Depo/kaynaklar/turkce/pentest/Pentest_Raporu.pdf) | |
 | 27  | [MFA2+ Hack Teknikleri El Kitabı](/Depo/kaynaklar/turkce/pentest/MFA2%2B%20Hack%20Teknikleri%20El%20Kitab%C4)|
+| 28 | [Siber Güvenlik Felsefesine Giriş](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314352) | Siber Güvenlik Felsefesine Giriş |
