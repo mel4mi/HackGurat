@@ -20,6 +20,7 @@
 | 11 |  [Hackerlar için Go](https://ahmetumitbayram.gitbook.io/go-for-hackers/) | Hackerlar için Go dili dökümantasyonu |
 | 12 | [Python Dökümantasyonu](https://python-istihza.yazbel.com/index.html) | Python için dökümantasyon |
 | 13 | [Mainframe Nedir](https://www.linkedin.com/pulse/nedir-bu-mainframe-dedi%C4%9Fimiz-%C5%9Fey-ahmet-alper-tecimer/?trackingId=6xAMcJ3PQlC4m5Xk7lzsVA%3D%3D) | Mainframe nedir|
+| 14 | [Osi tcp-ip Modelleri](https://medium.com/@hakankygazi/osi-tcp-ip-modelleri-ead276bb455) | osi tcp ip modelleri anlatımı |
 
 
 
