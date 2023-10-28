@@ -1,26 +1,16 @@
-
-## Ücretsiz(Free):
-
-* ### Yapay zekalar(ai)
- - ℹ️ [Chat GPT](https://chat.openai.com/) - Gpt 3 modellemesini kullanan çok popüler bir yapay zeka. İçerisinde 2020 e kadar topladığı verieri kullanır.
- - 🌐 [Poe.com](https://poe.com/) - Birbirinden farklı yapayzekayı barından bir site. gpt4 gibi güncel ai'ları günde bir defa çalıltırma hakkı veriyor.
- - 🧭 [BlackBox ai](https://www.useblackbox.io/) - Blackbox ai Yazılım geliştirme sürecinde yardımcı olabilecek bir yapay zekadır.
- - 🌐 [Invideo](https://invideo.io/) - Yazdığınız uygulamanın http isteklerini test edebileceğiniz site. 
- - ♟️ [Namelix](https://namelix.com/) - İsim üreten yapay zeka modeli. Baya iş yapıyor.
- - 🖌️ [Pixelicious](https://www.pixelicious.xyz/) - yüklediğiniz resmi pixel art'a dönüştürür.
- - 💢 [Bing](https://www.bing.com/?/ai) - Microsoft'un gpt4 ile bing arama motorunu birleştirdiği yapay zeka.
- - :accessibility: [ Bard](https://bard.google.com/?hl=en) Google'ın tasarladığı, kendisine ait yapay zeka modeli.
- - 🧔 [MidJourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) - Metinsel açıklamaları görselleştiren yapay zeka modeli.
- - ▶️ [Canva](https://www.canva.com/ai-image-generator/) - Canva'nın metinsel açıklamaları görselleştiren yapay zeka modeli.
- - 🔢 [Huggingface - QR](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator) - Görselleştirilmiş - Güzelleştirilmiş qr kod üretebilen yapay zeka modeli.
-
-
-
-
-
-## Paralı(Purchase):
-
-* ### Yapay zekalar(ai)
- - ℹ️ [Words ai](https://wordai.com/) - Okur yazar yapay zeka modelidir. Metin yazma veya taklit etme konularında başarılıdır.
- - 🌐 [Wonder Studio](https://wonderdynamics.com/) - Bu yapay zeka modeli ile videolarında vfx yapabilirsiniz.
- - 🧭 [Photoai](https://photoai.com/) - Profesyonel fotoğraflar çekmek için tasarlanmış yapay zeka. 
+| Tür  | Yapay Zeka Modeli | Açıklama |
+| ---- | ------------------ | -------- |
+| Ücretsiz | [Chat GPT](https://chat.openai.com/) | GPT-3 modelini kullanır. 2020'e kadar veri içerir. |
+| Ücretsiz | [Poe.com](https://poe.com/) | Güncel AI'ları sunar. |
+| Ücretsiz | [BlackBox ai](https://www.useblackbox.io/) | Yazılım geliştirme sürecinde yardımcı olabilir. |
+| Ücretsiz | [Invideo](https://invideo.io/) | HTTP isteklerini test edebilirsiniz. |
+| Ücretsiz | [Namelix](https://namelix.com/) | İsim üreten yapay zeka modeli. |
+| Ücretsiz | [Pixelicious](https://www.pixelicious.xyz/) | Resimleri pixel art'a dönüştürür. |
+| Ücretsiz | [Bing](https://www.bing.com/?/ai) | Microsoft'un GPT-4 ile bing arama motorunu birleştirdiği yapay zeka. |
+| Ücretsiz | [Bard](https://bard.google.com/?hl=en) | Google'ın yapay zeka modeli. |
+| Ücretsiz | [MidJourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) | Metinsel açıklamaları görselleştiren yapay zeka modeli. |
+| Ücretsiz | [Canva](https://www.canva.com/ai-image-generator/) | Canva'nın metinsel açıklamaları görselleştiren yapay zeka modeli. |
+| Ücretsiz | [Huggingface - QR](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator) | Görselleştirilmiş QR kod üretebilen yapay zeka modeli. |
+| Paralı | [Words ai](https://wordai.com/) | Okur yazar yapay zeka modeli. Metin yazma veya taklit etme konularında başarılıdır. |
+| Paralı | [Wonder Studio](https://wonderdynamics.com/) | Videolarında VFX yapabilirsiniz. |
+| Paralı | [Photoai](https://photoai.com/) | Profesyonel fotoğraflar çekmek için tasarlanmış yapay zeka. |
