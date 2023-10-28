@@ -32,7 +32,7 @@ NOTE: Some sections are still under preparation
      * [Search Engines](/Depo/Engines/README.md)
      * [Faydalı Linkler](/Depo/faydali_linkler/README.md)
   * ###  Faydalı Yazılar(Write-Ups):
-     * [Türkçe](/Depo/faydalı_yazılar/Türkçe/README.md) (tadilatta)
+     * [Türkçe](/Depo/faydalı_yazılar/Türkçe/README.md)
      * [English](/Depo/faydalı_yazılar/English/README.md)
   * ### PDF Kaynaklar(Resources):
      * [Türkçe](/Depo/kaynaklar/turkce/README.md) 
