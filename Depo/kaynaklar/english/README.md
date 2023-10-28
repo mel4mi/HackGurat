@@ -21,3 +21,4 @@
 | 19  | [Crypto 101](/Depo/kaynaklar/english/Crypto/Crypto%20101.pdf) |                                         |
 | 20  | [RSA Survey](/Depo/kaynaklar/english/Crypto/RSA-survey.pdf) |                                           |
 | 21 | [CyBOK](https://www.cybok.org/media/downloads/CyBOK-version-1.0.pdf) | The Cyber Security Body of Knowledge |
+| 22 | [Top 30 Cybersecurity Posts Swipe File](https://gold-marten-204.notion.site/2d292e0b941146ef858a125bf1cb0eb3?v=f04ea483a23b4119ad85592c6e8e961b) ||
