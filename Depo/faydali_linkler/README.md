@@ -5,6 +5,7 @@
  - [Raw Sec](https://inventory.raw.pm/overview.html) - Rawsec'e ait tooların,ctflerin ve kaynakların bulunduğu dev arşiv.
  - [Ethical Hacking Toolkit](https://0xcybery.github.io/ehtk/) Hacking için kullanılacak toolların bulunduğu mantık haritası.
  - [Linux command mind](https://xmind.app/m/WwtB/) - Linux komutlarının açıklamalı bulunduğu mantık haritası
+ - [Siber Güvenlik yol haritası](https://roadmap.sh/cyber-security) - Siber Güvenlik haritası
 * ### Faydalı Linkler
  - ℹ️ [Ifixit](https://www.ifixit.com/) - Herhangi bir şeyi nasıl tamir edeceğinizi açıklar.
  - 🌐 [RevShells](https://www.revshells.com/) - Birbirinden farklı dillerde otomatik ReverseShell üretmemize sağlar.
