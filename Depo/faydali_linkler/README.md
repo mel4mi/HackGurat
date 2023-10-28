@@ -3,7 +3,8 @@
  - [NetFocus trophy list](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#) - Siber güvenlik alanında alıştırma yapmak için vm listesi.
  - [aboutdfir ctf library](https://aboutdfir.com/education/challenges-ctfs/) - Geçmişte düzenlenen önemli ctf yarışmalarının sorularının tutulduğu kütüphane.
  - [Raw Sec](https://inventory.raw.pm/overview.html) - Rawsec'e ait tooların,ctflerin ve kaynakların bulunduğu dev arşiv.
- - [Ethical Hacking Toolkit](https://0xcybery.github.io/ehtk/)
+ - [Ethical Hacking Toolkit](https://0xcybery.github.io/ehtk/) Hacking için kullanılacak toolların bulunduğu mantık haritası.
+ - [Linux command mind](https://xmind.app/m/WwtB/) - Linux komutlarının açıklamalı bulunduğu mantık haritası
 * ### Faydalı Linkler
  - ℹ️ [Ifixit](https://www.ifixit.com/) - Herhangi bir şeyi nasıl tamir edeceğinizi açıklar.
  - 🌐 [RevShells](https://www.revshells.com/) - Birbirinden farklı dillerde otomatik ReverseShell üretmemize sağlar.
