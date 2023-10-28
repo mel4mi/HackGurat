@@ -20,3 +20,4 @@
 | 18  | [99 of the most searched CVEs of 2022](/Depo/kaynaklar/english/Malware/99%20of%20the%20most%20searched%20CVEs%20of%202022%20.pdf) | |
 | 19  | [Crypto 101](/Depo/kaynaklar/english/Crypto/Crypto%20101.pdf) |                                         |
 | 20  | [RSA Survey](/Depo/kaynaklar/english/Crypto/RSA-survey.pdf) |                                           |
+| 21 | [CyBOK](https://www.cybok.org/media/downloads/CyBOK-version-1.0.pdf) | The Cyber Security Body of Knowledge |
