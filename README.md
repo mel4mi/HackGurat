@@ -19,7 +19,7 @@ NOTE: Some sections are still under preparation
      * [ Mobile ](/Depo/uzmanlıklar/Mobile/README.md) 
      * [ Coding](/Depo/uzmanlıklar/Coding/README.md) 
        * [ Web Developing](/Depo/uzmanlıklar/Coding/Web/README.md)
-       * [Python](/Depo/uzmanlıklar/Coding/Python/README.md) (tadilatta)
+       * [Python](/Depo/uzmanlıklar/Coding/Python/README.md)
        * [C](/Depo/uzmanlıklar/Coding/C/README.md) (tadilatta)
        * [C++](/Depo/uzmanlıklar/Coding/C++/README.md) (tadilatta)
        * [C#](/Depo/uzmanlıklar/C%23/README.md) (tadilatta)
