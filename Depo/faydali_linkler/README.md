@@ -26,7 +26,7 @@
  - 🧵 [Threat intelligences](https://threatintelligenceplatform.com/) - Domain için siber tehdit istihbaratı.
  - 🛂 [ Breach Directory ](https://breachdirectory.org/) - Sızdırılmış şifreleri bulan veritabanı.
  - 🛂 [ Proxynova ](https://www.proxynova.com/tools/comb/) - Sızdırılmış şifreleri bulan veritabanı.
- - 🛂 [ Leak - Lookup ](https://leak-lookup.com/account/login)
+ - 🛂 [ Leak - Lookup ](https://leak-lookup.com/account/login) - Sızdırılmış şifreleri bulan veritabanı.
 
 
 * ### Forensic:
