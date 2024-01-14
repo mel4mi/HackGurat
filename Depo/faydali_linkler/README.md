@@ -25,6 +25,8 @@
  - 🖨️ [Router Password Database](https://www.routerpasswords.com/) - Modem default şifrelerini bulunduran veritabanı.
  - 🧵 [Threat intelligences](https://threatintelligenceplatform.com/) - Domain için siber tehdit istihbaratı.
  - 🛂 [ Breach Directory ](https://breachdirectory.org/) - Sızdırılmış şifreleri bulan veritabanı.
+ - 🛂 [ Proxynova ](https://www.proxynova.com/tools/comb/) - Sızdırılmış şifreleri bulan veritabanı.
+ - 🛂 [ Leak - Lookup ](https://leak-lookup.com/account/login)
 
 
 * ### Forensic:
@@ -54,6 +56,7 @@
 - 🔡 [Encrack](https://github.com/vlohacks/encrack) - Openssl enc stili şifrelenmiş dosyaları kırma aracı. (kurulum gerektirir)
 - 🅰️ [Cracking exercise](https://www.thehacker.recipes/ad/movement/credentials/cracking) - Hash kırmak için alıştırmaların bulunduğu eğitici içerik.
 - 🧭 [lostmypass](https://www.lostmypass.com/file-types/zip/) - Zip dosyalarının şifrelerini kırmaya yarar(başka dosya tiplerini de destekler).
+- #️⃣ [ MultiDecoder ](https://www.cachesleuth.com/multidecoder/)
 
 
 * ### JWT Token:
