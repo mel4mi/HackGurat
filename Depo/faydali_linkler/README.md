@@ -24,6 +24,7 @@
  - 📛 [scamadviser](https://www.scamadviser.com/) - Şüpheli sitenin scam olup olmadığı hakkında testler yapar.
  - 🖨️ [Router Password Database](https://www.routerpasswords.com/) - Modem default şifrelerini bulunduran veritabanı.
  - 🧵 [Threat intelligences](https://threatintelligenceplatform.com/) - Domain için siber tehdit istihbaratı.
+ - 🛂 [ Breach Directory ](https://breachdirectory.org/) - Sızdırılmış şifreleri bulan veritabanı.
 
 
 * ### Forensic:
