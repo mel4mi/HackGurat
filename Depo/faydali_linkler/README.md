@@ -66,6 +66,11 @@
 - 💰 [Jwt.io](https://jwt.io/) - jwt tokeni encode decode etme ve jwt tokeninin içeriğini değiştirme imkanı sağlar
 
 
+* ### SOC:
+- [ MX ToolBox ](https://mxtoolbox.com/)
+- [ UrlScan ](https://urlscan.io/)
+- [ TalosIntelligence ](https://www.talosintelligence.com/)
+
 
 * ### Osint:
 - [Hunter.io](https://hunter.io/)
