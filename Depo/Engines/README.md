@@ -1,23 +1,21 @@
-| No. | Araç Adı                                          | Açıklama                                                                                     |
-| --- | ------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 1   | [Shodan](https://www.shodan.io)                  | Cihazların, sunucuların ve açık portların aranmasını sağlar.                                |
-| 2   | [Wigle](https://wigle.net)                       | WiFi ağlarının konumlarını ve bilgilerini aramak için kullanılır.                            |
-| 3   | [BinaryEdge](https://app.binaryedge.io)          | Ağ güvenliği ve tehdit avcılığı için bilgi toplama sağlar.                                    |
-| 4   | [Onyphe](https://onyphe.io)                      | Ağ tehdit avcılığı ve veri analizi için kullanılır.                                          |
-| 5   | [Censys](https://censys.io)                      | Geniş kapsamlı bir tehdit avcılığı ve ağ güvenliği veri tabanıdır.                           |
-| 6   | [ZoomEye](https://zoomeye.org)                   | İnternet üzerindeki cihazlar ve servisler için bilgi toplar.                                   |
-| 7   | [Greynoise](https://viz.greynoise.io)            | Tehdit avcılığı ve kötü niyetli IP adresleri için bilgi sunar.                                |
-| 8   | [FullHunt](https://fullhunt.io)                  | Güvenlik olayları izlemek ve tehdit avcılığı için kullanılır.                                  |
-| 9   | [SOCradar](https://socradar.io)                  | Ağ güvenliği analizi için bilgi toplar.                                                        |
-| 10  | [IntelX](https://intelx.io)                      | İnternet üzerindeki verileri ve sızıntıları aramak için kullanılır.                            |
-| 11  | [Grep.app](https://grep.app)                      | Kod tabanlarını hızlıca aramak ve incelemek için kullanılır.                                   |
-| 12  | [SearchCode](https://searchcode.com)              | Açık kaynak kodlarını aramak ve incelemek için bir kaynaktır.                                   |
-| 13  | [Leakix](https://leakix.net)                      | Açık kaynak kod incelemesi için kaynak ve sızıntıları arar.                                     |
-| 14  | [Netlas](https://app.netlas.io)                  | Web uygulamalarını ve sunucularını tarar ve tehdit avcılığı sunar.                               |
-| 15  | [URLScan](https://urlscan.io)                    | Web sayfalarını taramak ve güvenlik açıkları bulmak için kullanılır.                            |
-| 16  | [PublicWWW](https://publicwww.com)                | İnternet üzerindeki web sitelerini içerik ve kodlar üzerinde arar.                               |
-| 17  | [Hunter](https://hunter.io)                      | E-posta adreslerini toplamak ve doğrulamak için kullanılır.                                    |
-| 18  | [Crt.sh](https://crt.sh)                          | SSL/TLS sertifikalarını ve alt alanları aramak için kullanılır.                                  |
-| 19  | [Vulners](https://vulners.com)                    | Güvenlik açıkları ve tehdit avcılığını izlemek için bir kaynaktır.                                  |
-| 20  | [PulseDive](https://pulsedive.com)                | Güvenlik açıkları ve tehdit avcılığını için bir veri tabanıdır.                                   |
-| 21  | [Ivre](https://ivre.rocks)                        | Açık kaynak istihbaratı (OSINT) toplama ve analiz için bir araçtır.                               |
+# Arama Motorları
+
+Siber güvenlik araştırmaları yaparken doğru bilgiye hızlıca ulaşmak çok önemlidir. Geleneksel arama motorlarının yanı sıra, özellikle siber güvenlik odaklı arama motorları, zafiyetleri, sızdırılmış verileri ve tehdit istihbaratını bulmak için paha biçilmezdir.
+
+## Önemli Arama Motorları:
+
+- **[Shodan](https://www.shodan.io/)**: İnternete bağlı cihazları (kameralar, sunucular, IoT cihazları vb.) bulmak için kullanılan bir arama motorudur. Zayıf yapılandırılmış veya varsayılan parolalara sahip cihazları tespit etmek için idealdir.
+
+- **[Censys](https://censys.io/)**: Shodan'a benzer şekilde, internete bağlı cihazları ve servisleri tarar. Özellikle sertifika şeffaflığı (certificate transparency) verilerini analiz etmek için güçlüdür.
+
+- **[ZoomEye](https://www.zoomeye.org/)**: Çin merkezli bir arama motorudur ve Shodan'a bir alternatiftir. Genellikle Asya'daki cihazlar hakkında daha fazla sonuç verir.
+
+- **[GreyNoise](https://www.greynoise.io/)**: İnternet'teki "gürültüyü" (tarama ve saldırı girişimleri) analiz eder. Bir IP adresinin zararlı olup olmadığını veya sadece genel bir tarama faaliyeti mi olduğunu anlamak için kullanışlıdır.
+
+- **[PublicWWW](https://publicwww.com/)**: Bir web sitesinin kaynak kodunda belirli bir metni veya kodu aramanızı sağlar. Bu, belirli bir teknoloji veya kütüphane kullanan siteleri bulmak için faydalıdır.
+
+- **[BinaryEdge](https://www.binaryedge.io/)**: İnternet'teki cihazları, servisleri ve zafiyetleri tarayan bir siber güvenlik arama motorudur.
+
+- **[Netlas.io](https://netlas.io/)**: İnternet'teki cihazları, alan adlarını ve diğer ağ varlıklarını keşfetmek ve analiz etmek için kullanılan bir platformdur.
+
+Bu arama motorları, siber güvenlik uzmanlarının ve araştırmacılarının tehditleri daha iyi anlamalarına ve savunmalarını güçlendirmelerine yardımcı olur.

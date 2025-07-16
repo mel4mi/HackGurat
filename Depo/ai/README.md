@@ -1,16 +1,27 @@
-| Tür  | Yapay Zeka Modeli | Açıklama |
-| ---- | ------------------ | -------- |
-| Ücretsiz | [Chat GPT](https://chat.openai.com/) | GPT-3 modelini kullanır. 2020'e kadar veri içerir. |
-| Ücretsiz | [Poe.com](https://poe.com/) | Güncel AI'ları sunar. |
-| Ücretsiz | [BlackBox ai](https://www.useblackbox.io/) | Yazılım geliştirme sürecinde yardımcı olabilir. |
-| Ücretsiz | [Invideo](https://invideo.io/) | HTTP isteklerini test edebilirsiniz. |
-| Ücretsiz | [Namelix](https://namelix.com/) | İsim üreten yapay zeka modeli. |
-| Ücretsiz | [Pixelicious](https://www.pixelicious.xyz/) | Resimleri pixel art'a dönüştürür. |
-| Ücretsiz | [Bing](https://www.bing.com/?/ai) | Microsoft'un GPT-4 ile bing arama motorunu birleştirdiği yapay zeka. |
-| Ücretsiz | [Bard](https://bard.google.com/?hl=en) | Google'ın yapay zeka modeli. |
-| Ücretsiz | [MidJourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) | Metinsel açıklamaları görselleştiren yapay zeka modeli. |
-| Ücretsiz | [Canva](https://www.canva.com/ai-image-generator/) | Canva'nın metinsel açıklamaları görselleştiren yapay zeka modeli. |
-| Ücretsiz | [Huggingface - QR](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator) | Görselleştirilmiş QR kod üretebilen yapay zeka modeli. |
-| Paralı | [Words ai](https://wordai.com/) | Okur yazar yapay zeka modeli. Metin yazma veya taklit etme konularında başarılıdır. |
-| Paralı | [Wonder Studio](https://wonderdynamics.com/) | Videolarında VFX yapabilirsiniz. |
-| Paralı | [Photoai](https://photoai.com/) | Profesyonel fotoğraflar çekmek için tasarlanmış yapay zeka. |
+# Yapay Zeka (AI) ve Siber Güvenlik
+
+Yapay zeka (AI) ve makine öğrenmesi (ML), siber güvenlik alanında devrim yaratma potansiyeline sahiptir. Hem saldırganlar hem de savunmacılar tarafından giderek daha fazla kullanılmaktadır. Bu bölümde, siber güvenlikte yapay zekanın rolünü ve bu alandaki önemli araçları ve kaynakları inceleyeceğiz.
+
+## Yapay Zekanın Siber Güvenlikteki Rolü:
+
+- **Tehdit Tespiti ve Önleme**: AI, anormal ağ trafiğini, zararlı yazılımları ve kimlik avı saldırılarını tespit etmek için kullanılabilir. Davranış analizi yaparak, daha önce görülmemiş tehditleri bile belirleyebilir.
+
+- **Zafiyet Yönetimi**: AI, kod taraması yaparak potansiyel zafiyetleri tespit edebilir ve bu zafiyetlerin önceliklendirilmesine yardımcı olabilir.
+
+- **Otomasyon ve Orkestrasyon**: Güvenlik operasyon merkezlerinde (SOC), AI, tekrarlayan görevleri otomatikleştirmek ve analistlerin daha karmaşık tehditlere odaklanmasını sağlamak için kullanılabilir.
+
+- **Saldırı Simülasyonu**: AI, potansiyel saldırı senaryolarını simüle ederek bir kuruluşun savunmasının ne kadar etkili olduğunu test edebilir.
+
+## Siber Güvenlik için Yapay Zeka Araçları:
+
+- **[ChatGPT](https://chat.openai.com/)**: Kod analizi, zafiyet açıklamaları ve siber güvenlik kavramları hakkında bilgi almak için kullanılabilir.
+
+- **[GitHub Copilot](https://github.com/features/copilot)**: Güvenli kod yazmaya yardımcı olan bir AI asistanıdır. Kod tamamlama ve öneriler sunarak geliştiricilerin daha güvenli uygulamalar oluşturmasına yardımcı olur.
+
+- **[Darktrace](https://www.darktrace.com/)**: Ağ trafiğini analiz ederek ve anormal davranışları tespit ederek siber tehditleri belirleyen bir AI platformudur.
+
+- **[Cylance](https://www.blackberry.com/us/en/products/cylance-ai)**: Zararlı yazılımları tespit etmek ve engellemek için makine öğrenmesini kullanan bir uç nokta koruma çözümüdür.
+
+- **[IBM QRadar Advisor with Watson](https://www.ibm.com/qradar)**: Güvenlik analistlerine tehditleri daha hızlı araştırmaları ve müdahale etmeleri için yardımcı olan bir AI tabanlı araçtır.
+
+Yapay zeka, siber güvenlik alanında hem büyük fırsatlar hem de yeni zorluklar sunmaktadır. Bu teknolojiyi anlamak ve doğru araçları kullanmak, geleceğin siber güvenlik uzmanları için kritik öneme sahip olacaktır.
